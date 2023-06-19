@@ -176,10 +176,10 @@
         "drm_license_uri": "https://silverplaytv.store/koey/t3l3f3.json"
       },
       {
-        "name": "INFORMACION PERIODISTICA",
-        "uri": "https://edge-live13-hr.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_2A/Investigacion_Periodistica.mpd",
+        "name": "ARGENTINISIMA SATELITAL",
+        "uri": "https://chromecast.cvattv.com.ar/live/c2live/Argentinisima/SA_Live_dash_enc_2A/Argentinisima.mpd",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=MDBhMTA4MGRhNzM5ZTIzZmNhYzFiNTRmNDg1YzczZjM="
       },
       {
         "name": "TN NOTICIAS",
