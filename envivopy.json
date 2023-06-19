@@ -43,8 +43,8 @@
     "name": "Widevine DASH (MP4, H264)",
     "samples": [
       {
-        "name": "HD (cenc)",
-        "uri": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd",
+        "name": "history",
+        "uri": "https://edge-live15-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://proxy.uat.widevine.com/proxy?video_id=2015_tears&provider=widevine_test"
       },
