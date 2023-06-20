@@ -1,6 +1,6 @@
 [
   {
-    "icon": "https://www.clarin.com/img/2022/09/27/gran-hermano-2022-el-reality___9FXtYKoum_2000x1500__1.jpg",
+
     "name": "TIGO SPORTS",
     "samples": [
       {
@@ -161,7 +161,7 @@
       {
         "name": "CANAL 12",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
-        "drm_scheme": "widevine",
+        "drm_scheme": "clearkey",
         "drm_license_uri": "https://www.dropbox.com/s/4w9xmqlqcdhznhx/KEYCANAL12.json"
       },
       {
