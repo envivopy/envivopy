@@ -178,7 +178,7 @@
       {
         "name": "ARGENTINISIMA SATELITAL",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
-        "drm_scheme": "widevine",
+        "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/44p1aws6j2n0qbe/keyargentinisima.json"
       },
       {
