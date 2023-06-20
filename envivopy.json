@@ -159,10 +159,10 @@
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
       },
       {
-        "name": "CANAL RURAL",
-        "uri": "https://edge-live16-hr.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc_2A/Canal_Rural.mpd",
+        "name": "CANAL 12",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
+        "drm_license_uri": "https://www.dropbox.com/s/4w9xmqlqcdhznhx/KEYCANAL12.json"
       },
       {
         "name": "ENCUENTRO TV",
