@@ -177,9 +177,9 @@
       },
       {
         "name": "ARGENTINISIMA SATELITAL",
-        "uri": "https://chromecast.cvattv.com.ar/live/c2live/Argentinisima/SA_Live_dash_enc_2A/Argentinisima.mpd",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=MDBhMTA4MGRhNzM5ZTIzZmNhYzFiNTRmNDg1YzczZjM="
+        "drm_license_uri": "https://dl.dropbox.com/s/44p1aws6j2n0qbe/keyargentinisima.json"
       },
       {
         "name": "TN NOTICIAS",
