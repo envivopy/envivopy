@@ -742,17 +742,18 @@
     "name": "CANALES 24/7",
     "samples": [
       {
-        "name": "JUEGO DE TRONOS",
-        "uri": "https://v3.playerlatino.live/stream/m3u8/515"
+        "name": "LOS SIMPSON",
+        "uri": "http://149.56.44.10/hls/128_.m3u8"
       },
       {
-        "name": "LOS SIMPSONS",
-        "uri": "https://v3.playerlatino.live/stream/m3u8/894"
+        "name": "Dragon Ball",
+        "uri": "http://149.56.44.10/hls/136_.m3u8"
       },
       {
-        "name": "The Big Bang Theory",
-        "uri": "https://v3.playerlatino.live/stream/m3u8/676"
+        "name": "Dragon Ball Z",
+        "uri": "http://149.56.44.10/hls/143_.m3u8"
       }
     ]
   },
   {
+
