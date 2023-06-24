@@ -17,10 +17,10 @@
     "name": "CULTURA",
     "samples": [
       {
-       "name": "CANAL 9",
+     "name": "TV PUBLICA",
+        "uri": "http://mtd.llc/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
         "drm_scheme": "clearkey",
-        "uri": "KCvM+OPynjG3DbIxB3RnTqTgFRH9FiyvbEcPHtlcAXdGq/5d4RxkTa9O3L75ta8jKoT3+YZKEHhpX7rL17dAIg==",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibb1e8b8+FROeKwEx0mzgpOa"
+        "drm_license_url": "http://api.argentinatv.live/file2/tvp.json"
       },
       {
         "name": "DISCOVERY",
