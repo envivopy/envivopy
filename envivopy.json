@@ -141,10 +141,11 @@
     "name": "ARGENTINA",
     "samples": [
       {
-        "name": "AMERICA TV",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_wl/AmericaTV.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
+           "icon": "https://static.tvar.io/imagenes/americatv.png",
+        "name": "AMERICA TV ",
+        "drm_scheme": "clearkey",
+        "uri": "http://mtd.llc/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
+        "drm_license_url": "http://api.argentinatv.live/file2/americatv.json"
       },
       {
         "name": "TV PUBLICA",
