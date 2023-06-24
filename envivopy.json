@@ -733,7 +733,7 @@
     "samples": [
       {
         "name": "PLAYBOY",
-        "uri": "hhttp://mtd.llc/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd",
+        "uri": "http://mtd.llc/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "http://api.argentinatv.live/file2/playboy.json"
       }
