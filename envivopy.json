@@ -147,6 +147,11 @@
         "uri": "https://edge-live17-hr.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://helloworl.mariabareiro.repl.co/unicanal.json"
+
+   },
+      {
+        "name": "CANAL 12 REGIONAL YAGUARON",
+        "uri": "http://video.camaronhosting.com/mediosenpy/mediosenpy/playlist.m3u8"
       }
     ]
   },
