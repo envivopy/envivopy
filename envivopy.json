@@ -21,13 +21,7 @@
         "uri": "https://edge-live15-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
-      },
-      {
-        
-       "name": "HISTORY 2",
-        "uri": "http://mtd.llc/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "http://api.argentinatv.live/file2/history2.json"
+  
       },
       {
         "name": "DISCOVERY",
