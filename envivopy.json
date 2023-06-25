@@ -130,6 +130,13 @@
         "drm_license_uri": "http://api.argentinatv.live/file2/abctv.json"
       },
       {
+        "name": "PARAGUAY TV",
+        "uri": "http://mtd.llc/live/c7eds/Paraguay_TV/SA_Live_dash_enc_2A/Paraguay_TV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "http://api.argentinatv.live/file2/paraguaytv.json"   
+     },  
+      {
+        
         "name": "RPC",
         "uri": "https://edge-live12-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_2A/RPC_C4.mpd",
         "drm_scheme": "clearkey",
