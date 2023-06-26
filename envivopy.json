@@ -155,8 +155,10 @@
         "drm_license_uri": "https://helloworl.mariabareiro.repl.co/unicanal.json"
      },
       {
-       "name": "CANAL 12 REGIONAL YAGUARON",
-        "uri": "http://video.camaronhosting.com/mediosenpy/mediosenpy/playlist.m3u8" 
+   "name": "SUR TV",
+        "uri": "http://mtd.llc/live/c4eds/SUR_TV_C4/SA_Live_dash_enc_2A/SUR_TV_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "http://api.argentinatv.live/file2/surtv.json"
       }
     ]
   },
