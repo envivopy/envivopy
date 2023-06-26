@@ -772,11 +772,12 @@
         "uri": "http://mtd.llc/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "http://api.argentinatv.live/file2/venus.json"      
+   }
+    ]
   },
   {
    "name": "CANALES 24/7",
     "samples": [
-
       {
         "name": "GRAN HERMANO CHILE",
         "uri": "http://i.mjh.nz/PlutoTV/645505747cb4b10008492e03-alt.m3u8"
