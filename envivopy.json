@@ -96,9 +96,9 @@
       },
       {
         "name": "C9N",
-        "uri": "https://edge01-cde-py.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc_2A/C9N_C4.mpd",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/c9n.json"
+        "drm_license_uri": "https://silverplaytv.store/koey/c9n.json"
       },
       {
         "name": "GEN TV",
