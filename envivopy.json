@@ -766,6 +766,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "http://api.argentinatv.live/file2/venus.json"
 
+   },
   {
         "name": "VENUS",
         "uri": "http://mtd.llc/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd",
