@@ -767,7 +767,7 @@
     "samples": [
       {
         "name": "LOS SIMPSON",
-        "uri": "http://149.56.44.10/hls/128_.m3u8"
+        "uri": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/1539795/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-e258d760-22a3-431b-936b-977e313c05a7&deviceDNT=0&advertisingId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=%7BPSID%7D&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true"
       },
       {
         "name": "Dragon Ball",
