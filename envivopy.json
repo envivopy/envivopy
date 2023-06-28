@@ -204,6 +204,21 @@
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://silverplaytv.store/koey/t3l3f3.json"
+
+    },
+      {
+        "name": "CRONICA TV",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/cr0n1c4.json"
+
+            },
+      {
+        "name": "CANAL 26",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/c4n4l26.json"
+        
       },
       {
         "name": "ARGENTINISIMA SATELITAL",
