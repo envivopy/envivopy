@@ -784,7 +784,7 @@
     "samples": [
       {
         "name": "PLAYBOY",
-        "uri": "https://edge-live01-mun.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd'",
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd'",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/172g4o8n14krxj4/KEY.PLAYBOY.json"
 
