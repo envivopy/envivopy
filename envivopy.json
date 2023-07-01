@@ -114,9 +114,9 @@
       },
       {
         "name": "PARAVISION",
-        "uri": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_2A/PARAVISION_C4.mpd",
+        "uri": "https://edge-vod03-hr.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/paravision.json"
+        "drm_license_uri": "https://dl.dropbox.com/s/hwvh6ihwd8cdm3r/KEY.PARAVISON.json"
       },
       {
        "name": "SNT",
