@@ -350,31 +350,31 @@
         "name": "FOX SPORTS 1",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/fs1.json"
+        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port.json"
       },
       {
         "name": "FOX SPORTS 2",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/fs2.json"
+        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port2.json"
       },
       {
         "name": "FOX SPORTS 3",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/fs3.json"
+        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port3.json"
       },
       {
         "name": "TYC SPORTS",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/tyc.json"
+        "drm_license_uri": "https://silverplaytv.store/koey/tycsp0rt.json"
       },
       {
         "name": "DEPORTV",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd",
+        "uri": "hhttps://edge-live11-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/deportv.json"
+        "drm_license_uri": "https://silverplaytv.store/koey/d3p0rtv.json"
       },
       {
         "name": "AFICIONADOS",
@@ -384,15 +384,15 @@
       },
       {
         "name": "GARAGE TV",
-        "uri": "https://edge-live15-hr.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_2A/El_Garage.mpd",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc/El_Garage.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/garage.json"
+        "drm_license_uri": "https://silverplaytv.store/koey/g4raje.json"
       },
       {
         "name": "GOLF CHANNEL",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc/Golf_Channel.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/gc.json"
+        "drm_license_uri": "https://silverplaytv.store/koey/g0lfch.json"
       },
       {
         "name": "NBA",
@@ -402,15 +402,15 @@
       },
       {
         "name": "DEPORTV",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/deportv.json"
+        "drm_license_uri": "https://silverplaytv.store/koey/d3p0rtv.json"
       },
       {
         "name": "TNT SPORT HD",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/tntsporthd.json"
+        "drm_license_uri": "https://silverplaytv.store/koey/t0ntsp0rt.json"
       },
       {
         "name": "DIRECTV",
@@ -777,14 +777,14 @@
         "name": "PLAYBOY",
         "uri": "http://mtd.llc/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "http://api.argentinatv.live/file2/playboy.json"
+        "drm_license_uri": "https://dl.dropbox.com/s/172g4o8n14krxj4/KEY.PLAYBOY.json"
 
    },
   {
         "name": "VENUS",
         "uri": "http://mtd.llc/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "http://api.argentinatv.live/file2/venus.json"      
+        "drm_license_uri": "https://dl.dropbox.com/s/hh46fty0kuygitj/KEY.VENUS.json"      
    }
     ]
   },
