@@ -8,12 +8,12 @@
         "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"
       },
       {
-        "name": "TIGO TVLA",
+        "name": "TIGO EVENTOS",
         "uri": "https://vsd77.mycdn.me:443/hls/4754755816103.m3u8/sig/PA0qAY3qEZw/expires/1688256992425/srcIp/190.175.40.83/urls/45.136.21.42/clientType/1/srcAg/CHROME_ANDROID/mid/6183270293159/4754755816103_high/index.m3u8"
 
            },
       {
-        "name": "TIGO PY",
+        "name": "TIGO TVLA",
         "uri": "https://ssh101.bozztv.com/ssh101/tvlat/chunks.m3u8"
       }
     ]
