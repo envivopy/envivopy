@@ -86,7 +86,7 @@
         "name": "UNICANAL",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/unicanal.json"
+        "drm_license_uri": "https://dl.dropbox.com/s/kdnepaa6vuxflno/KEY.UNICANAL.json"
       },
       {
         "name": "NPY",
