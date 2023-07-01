@@ -242,6 +242,13 @@
         "uri": "https://edge-live12-sl.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
+      },
+      {
+        "name": "CANAL 12 CORDOBA",
+        "uri": "http://cdn.tvar.io/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "http://api.argentinatv.live/file2/canal12cba.json"
+        
 
       },
       {
