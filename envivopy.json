@@ -119,10 +119,10 @@
         "drm_license_uri": "https://helloworl.mariabareiro.repl.co/paravision.json"
       },
       {
-        "name": "SNT",
-        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_2A/SNT_C4.mpd",
+       "name": "SNT",
+        "uri": "https://edge-vod03-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/snt.json"
+        "drm_license_uri": "https://dl.dropbox.com/s/70r0igk57komgc8/KEY.SNT.json"
       },
       {
         "name": "TELEFUTURO",
