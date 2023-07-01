@@ -131,10 +131,8 @@
         "drm_license_uri": "https://dl.dropbox.com/s/9i20e2knw5h5mbx/key.telefuturo.json"
       },
       {
-       "name": "ABC",
-        "uri": "http://mtd.llc/live/c5eds/ABC_TV_C4/SA_Live_dash_enc_2A/ABC_TV_C4.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "http://api.argentinatv.live/file2/abctv.json"
+        "name": "ABC",
+        "uri": "https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8"
       },
       {
        "name": "PARAGUAY TV",
