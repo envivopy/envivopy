@@ -144,7 +144,7 @@
         "name": "RPC",
         "uri": "http://chromecast.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/gss70kpjh5blyns/KEY.RPC.json"
+        "drm_license_uri": "http://api.argentinatv.live/file2/trecepy.json"
       },
       {
         "name": "UNICANAL",
