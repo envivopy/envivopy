@@ -110,7 +110,7 @@
         "name": "LA TELE",
         "uri": "https://edge-live17-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_2A/LA_TELE_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/tele.json"
+        "drm_license_uri": "https://dl.dropbox.com/s/z1j68op8dtq50sr/KEY.LATELE.json"
       },
       {
         "name": "PARAVISION",
@@ -138,21 +138,21 @@
       },
       {
        "name": "PARAGUAY TV",
-        "uri": "http://mtd.llc/live/c7eds/Paraguay_TV/SA_Live_dash_enc_2A/Paraguay_TV.mpd",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "http://api.argentinatv.live/file2/paraguaytv.json"   
+        "drm_license_uri": "https://dl.dropbox.com/s/iigq4s9v3pzvdva/KEY.PARAGUAY.TV.json" 
      },  
       {
         "name": "RPC",
-        "uri": "https://edge-live12-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_2A/RPC_C4.mpd",
+        "uri": "https://edge-vod03-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/rpc.json"
+        "drm_license_uri": "https://dl.dropbox.com/s/etir8gozwsau5li/KEY.RPC.json"
       },
       {
         "name": "UNICANAL",
-        "uri": "https://edge-live17-hr.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/unicanal.json"
+        "drm_license_uri": "https://dl.dropbox.com/s/kdnepaa6vuxflno/KEY.UNICANAL.json"
      },
       {
    "name": "SUR TV",
