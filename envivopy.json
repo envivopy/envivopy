@@ -245,7 +245,7 @@
     "samples": [
       {
         "name": "HBO",
-        "uri": "https://edge-live13-hr.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
+        "uri": "https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/sueavngr2merhsd/KEY.H%20BO1.json"
       },
