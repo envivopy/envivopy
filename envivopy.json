@@ -249,33 +249,33 @@
       },
       {
         "name": "HBO 2",
-        "uri": "https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
+        "uri": "https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/hbo2.json"
+        "drm_license_uri": "https://dl.dropbox.com/s/ni7k1gesir33lq7/KEY.H%20BO2.json"
       },
       {
         "name": "HBO XTREME",
-        "uri": "https://edge-live11-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/hbox.json"
+        "drm_license_uri": "https://dl.dropbox.com/s/xyhhqzlk7oc70ca/KEY.HBO.EXTREME.json"
       },
       {
         "name": "HBO FAMILY",
-        "uri": "https://edge-live13-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd",
+        "uri": "https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/hbof.json"
+        "drm_license_uri": "https://dl.dropbox.com/s/y4xmfs0bfkuj1bh/KEY.HBO.FAMILY.json"
       },
       {
         "name": "HBO SIGNATURE",
-        "uri": "https://edge-live12-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_2A/HBO_Signature.mpd",
+        "uri": "https://dtvott-cbc.akamaized.net/dash_live_1143/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/hbos.json"
+        "drm_license_uri": "https://dl.dropbox.com/s/l97zmlkgomjbu1i/KEY.HBO.SIPNATURE.json"
       },
       {
         "name": "HBO MUNDI",
-        "uri": "https://edge-live16-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_2A/HBO_Mundi.mpd",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/hbom.json"
+        "drm_license_uri": "https://dl.dropbox.com/s/0vpf9mu9im6kf3l/KEY.HBO.MUNDI.json"
       },
       {
         "name": "HBO PLUS",
