@@ -15,6 +15,10 @@
       {
         "name": "TIGO TVLA",
         "uri": "https://ssh101.bozztv.com/ssh101/tvlat/chunks.m3u8"
+        },
+      {
+        "name": "TIGO FUTBOL PLAY",
+        "uri": "https://vkvsd227.mycdn.me/hls/4907967646407.m3u8/sig/0dnW6MQlQkE/expires/1688425597727/srcIp/201.218.159.12/urls/185.226.52.95/clientType/13/srcAg/CHROME_ANDROID/mid/5826929044423/4907967646407_high/index.m3u8"
       }
     ]
   },
