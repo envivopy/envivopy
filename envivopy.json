@@ -201,9 +201,7 @@
       },
       {
         "name": "CANAL 12",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://www.dropbox.com/s/4w9xmqlqcdhznhx/KEYCANAL12.json"
+        "uri": "https://cdn.jwplayer.com/manifests/Ikr5bgxl.m3u8"
       },
       {
         "name": "ENCUENTRO TV",
