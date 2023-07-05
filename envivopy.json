@@ -526,7 +526,7 @@
         "name": "ARENA  SPORT 1",
         "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json"
+        "drm_license_uri": "https://dl.dropbox.com/s/bol0o5s01d21xbi/KEY.ARENASPORTS1.json"
       },
       {
         "name": "ARENA  SPORT 2",
