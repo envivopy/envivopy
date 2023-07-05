@@ -8,16 +8,16 @@
         "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"
       },
       {
-        "name": "TIGO EVENTOS ACTIVO SOLO CUANDO HAY EVENTOS EN VIVO",
-        "uri": "https://vsd173.mycdn.me/hls/4754755816103.m3u8/sig/OxvrZ7WjAGM/expires/1688396344670/srcIp/190.175.40.83/urls/185.226.53.66/clientType/1/srcAg/CHROME_ANDROID/mid/6183270293159/4754755816103_high/index.m3u8"
+        "name": "Sorteo de los octavos de final",
+        "uri": "https://tgn.bozztv.com/ssh101/ssh101/viralsports/playlist.m3u8"
 
            },
       {
-        "name": "TIGO TVLA ACTIVO SOLO CUANDO HAY EVENTOS EN VIVO ",
+        "name": "TIGO TVLA",
         "uri": "https://ssh101.bozztv.com/ssh101/tvlat/chunks.m3u8"
         },
       {
-        "name": "TIGO FUTBOL PLAY ACTIVO SOLO CUANDO HAY EVENTOS EN VIVO ",
+        "name": "TIGO FUTBOL PLAY",
         "uri": "https://v4-4.budtv-ultra.com/api.php?cmd=touch&state=started&id=54030-livetv&type=6"
       }
     ]
