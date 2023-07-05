@@ -346,7 +346,7 @@
         "name": "PREMIERE",
         "uri": "https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://helloworl.mariabareiro.repl.co/premiere.json"
+        "drm_license_uri": "https://dl.dropbox.com/s/datzo5nr08jw7ww/KEY.PREMIER.json"
       },
       {
         "name": "ESPN PREMIUM",
