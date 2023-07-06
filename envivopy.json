@@ -328,12 +328,6 @@
     "samples": [
 
       {
-        "name": "PREMIERE",
-        "uri": "https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/datzo5nr08jw7ww/KEY.PREMIER.json"
-      },
-      {
         "name": "ESPN PREMIUM",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
@@ -386,12 +380,6 @@
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://silverplaytv.store/koey/tycsp0rt.json"
-      },
-      {
-        "name": "DEPORTV",
-        "uri": "hhttps://edge-live11-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/d3p0rtv.json"
       },
       {
         "name": "AFICIONADOS",
@@ -784,12 +772,7 @@
         "uri" : "https://edge-live16-sl.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc_2A/A3_Cine.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"  
-      },
-      {
-        "name": "A3CINE",
-        "uri" : "https://edge-live16-sl.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc_2A/A3_Cine.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"  
+  
       },
       {
         "name": "MOVISTAR ACCIÓN",
