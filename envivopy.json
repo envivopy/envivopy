@@ -167,10 +167,8 @@
         "drm_license_uri": "https://dl.dropbox.com/s/kdnepaa6vuxflno/KEY.UNICANAL.json"
      },
       {
-   "name": "SUR TV",
-        "uri": "http://mtd.llc/live/c4eds/SUR_TV_C4/SA_Live_dash_enc_2A/SUR_TV_C4.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "http://api.argentinatv.live/file2/surtv.json"
+       "name": "CENTRAL TV",
+        "uri": "https://cloudtv.streaming.com.py/centraltv/centraltv/playlist.m3u8"
       }
     ]
   },
@@ -380,6 +378,16 @@
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://silverplaytv.store/koey/tycsp0rt.json"
+      },
+      {
+        "name": "BEIN SPORTS EXTRA",
+        "uri": "http://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8" 
+
+      },
+      {
+        "name": "REAL MADRID TV",
+        "uri": "http://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8" 
+ 
       },
       {
         "name": "AFICIONADOS",
