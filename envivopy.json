@@ -437,7 +437,7 @@
         "name": "AMERICA SPORTS",
         "uri": "http://edge-live15-hr.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/rqg4r4obtaqu8jr/KEY.AMERICA.SPORTS.json"
+        "drm_license_uri": "http://api.argentinatv.live/file2/americasports.json"
       },
       {
         "name": "LIGA 1",
