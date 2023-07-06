@@ -325,13 +325,30 @@
   },
   {
     "name": "DEPORTES",
-    "samples": [
+    "samples": [      
       {
-        "name": "DUBAI SPORT",
-        "uri": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8"
- 
+        "name": "FOX SPORTS 1",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port.json"
       },
       {
+        "name": "FOX SPORTS 2",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port2.json"
+      },
+      {
+        "name": "FOX SPORTS 3",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port3.json"
+      },
+      {
+        "name": "TYC SPORTS",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/tycsp0rt.json"
         "name": "ESPN PREMIUM",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
@@ -362,30 +379,6 @@
         "drm_license_uri": "https://helloworl.mariabareiro.repl.co/espnx.json"
       },
       {
-        "name": "FOX SPORTS 1",
-        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port.json"
-      },
-      {
-        "name": "FOX SPORTS 2",
-        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port2.json"
-      },
-      {
-        "name": "FOX SPORTS 3",
-        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port3.json"
-      },
-      {
-        "name": "TYC SPORTS",
-        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/tycsp0rt.json"
-      },
-      {
         "name": "DEPORTV",
         "uri": "hhttps://edge-live11-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd",
         "drm_scheme": "clearkey",
@@ -408,6 +401,11 @@
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc/Golf_Channel.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://silverplaytv.store/koey/g0lfch.json"
+
+      },
+      {
+        "name": "DUBAI SPORT",
+        "uri": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8" 
       },
       {
         "name": "NBA",
