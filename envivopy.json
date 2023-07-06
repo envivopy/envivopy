@@ -426,6 +426,25 @@
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://silverplaytv.store/koey/t0ntsp0rt.json"
+    },
+      {
+        "name": "FIGHT",
+        "uri": "https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/9r7n56k9b1a3lsj/KEY.FIGHT.json"
+     },
+      {
+        "name": "AMERICA SPORTS",
+        "uri": "http://edge-live15-hr.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://DL.dropbox.com/s/rqg4r4obtaqu8jr/KEY.AMERICA.SPORTS.json"
+      },
+      {
+        "name": "LIGA 1",
+        "uri": "https://dtvott-abc.akamaized.net/dash_live_1272/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/rochnvv74vm1y1v/KEY.LIGA1.json",
+
       },
       {
         "name": "DIRECTV",
