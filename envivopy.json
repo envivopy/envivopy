@@ -106,14 +106,14 @@
       },  
       {
         "name": "RPC",
-        "uri": "http://chromecast.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+        "uri": "https://edge-vod03-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "http://api.argentinatv.live/file2/trecepy.json"
 
        },  
       {
-        "name": "RPC OPC 2",
-        "uri": "https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/index.m3u8"   
+        "name": "RPC OPC 2", 
+        "uri": "https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_alta/index.m3u8"   
       },
       {
         "name": "NPY",
