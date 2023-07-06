@@ -329,24 +329,7 @@
       {
         "name": "DUBAI SPORT",
         "uri": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8"
-      },
-      {
-        "name": "SPORTV 1",
-        "uri": "http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31137"
-      },
-      {
-        "name": "SPORTV 2",
-        "uri": "http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31163"
-      },
-      {
-        "name": "SPORTV 3",
-        "uri": "http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31166"
-      },
-      {
-        "name": "PREMIERE",
-        "uri": "https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/datzo5nr08jw7ww/KEY.PREMIER.json"
+ 
       },
       {
         "name": "ESPN PREMIUM",
