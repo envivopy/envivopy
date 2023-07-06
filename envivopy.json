@@ -91,6 +91,7 @@
   {
     "name": "PARAGUAY",
     "samples": [
+      
       {
        "name": "SNT",
         "uri": "https://edge-vod03-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
@@ -102,7 +103,6 @@
         "uri": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/9i20e2knw5h5mbx/key.telefuturo.json"
-  
       },  
       {
         "name": "RPC",
@@ -113,7 +113,7 @@
        },  
       {
         "name": "RPC OPC 2",
-        "uri": "https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/index.m3u8",   
+        "uri": "https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/index.m3u8"   
       },
       {
         "name": "NPY",
