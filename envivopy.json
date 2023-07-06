@@ -443,7 +443,7 @@
         "name": "LIGA 1",
         "uri": "https://dtvott-abc.akamaized.net/dash_live_1272/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/rochnvv74vm1y1v/KEY.LIGA1.json",
+        "drm_license_uri": "https://dl.dropbox.com/s/rochnvv74vm1y1v/KEY.LIGA1.json"
 
       },
       {
