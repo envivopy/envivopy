@@ -830,6 +830,19 @@
         "uri": "http://149.56.44.10/hls/128_.m3u8"
       },
       {
+     "name": "EL CHAVO",
+        "uri": "https://6362ca6f1fc28.streamlock.net/elchavoplus/elchavoplus/chunklist.m3u8" 
+      },
+      {
+     "name": "EL CHAPULIN COLORADO",
+        "uri": "http://149.56.44.10/hls/131_.m3u8"   
+      },
+      {
+     "name": "BOB SPONJA",
+        "uri": "http://51.159.104.29:8080/bobesponja/index.m3u8"   
+        
+      },
+      {
         "name": "Dragon Ball",
         "uri": "http://149.56.44.10/hls/136_.m3u8"
       },
@@ -849,11 +862,18 @@
       {
    "name": "FUTURAMA",
         "uri": "https://6362ca6f1fc28.streamlock.net/cloudtvplus/cloudtvplus/chunklist.m3u8" 
-
       },
       {
+     "name": "Ben 10",
+        "uri": "http://51.159.104.29:8080/ben10/index.m3u8"  
+      },
+      {
+     "name": "CINE CARTOON",
+        "uri": "https://6362ca6f1fc28.streamlock.net/cinecartoon/cinecartoon/chunklist.m3u8"   
+     },
+      {
      "name": "TOM Y JERRY",
-        "uri": "https://6362ca6f1fc28.streamlock.net/tomyjerry/tomyjerry/chunklist.m3u8"
+        "uri": "https://6362ca6f1fc28.streamlock.net/tomyjerry/tomyjerry/chunklist.m3u8"  
        },
        {
         "name": "DIOS TE VE",
