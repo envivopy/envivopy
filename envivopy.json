@@ -85,6 +85,14 @@
         "uri": "https://edge-live31-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_2A/Discovery_World_HD.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
+
+      },
+      {
+        "name": "TRU TV",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/TruTV/SA_Live_dash_enc_2A/TruTV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://www.dropbox.com/scl/fi/94yfpwmjrq90kvc9f5svh/KEY.TRU.TV.json"
+     
       }
     ]
   },
