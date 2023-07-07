@@ -564,10 +564,7 @@
       },
       {
         "name": "SPORTV 1",
-        "uri": "https://0068-vos.dtvott.com/DASH/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/2jyk4jhrrg4txzh/KEY.SPORTV1.json"
-
+        "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-F6Mj3u4Z8F/Ri369CisDQ/396.ts"
     },
       {
         "name": "SPORTV 2",
