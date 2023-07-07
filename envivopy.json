@@ -568,15 +568,11 @@
     },
       {
         "name": "SPORTV 2",
-        "uri": "https://0069-vos.dtvott.com/DASH/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/xbdqtvb0lf9eyev/KEY.SPORTV2.json"
-        
-
+        "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-VTpgsnOoHj/28QmTPho90/397.ts"
        },
       {
         "name": "SPORTV 3",
-        "uri": "https://0070-vos.dtvott.com/DASH/manifest.mpd",
+        "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-VTpgsnOoHj/28QmTPho90/398.ts"
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/77gyunqi3dc8ayw/KEY.SPORTV3.json"
         
