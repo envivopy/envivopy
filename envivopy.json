@@ -633,13 +633,6 @@
         "uri" : "https://edge-live15-sl.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"  
-
-      },
-      {
-        "name": "FOX PREMIUM ACTION",
-        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxActionHD/SA_Live_dash_enc_2A/FoxActionHD.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://wv-client.cvattv.com.ar/?deviceId=MDBhMTA4MGRhNzM5ZTIzZmNhYzFiNTRmNDg1YzczZjM="
       },
       {
         "name": "EUROPA EUROPA",
