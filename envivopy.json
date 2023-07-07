@@ -572,10 +572,7 @@
        },
       {
         "name": "SPORTV 3",
-        "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-VTpgsnOoHj/28QmTPho90/398.ts"
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/77gyunqi3dc8ayw/KEY.SPORTV3.json"
-        
+        "uri": "http://testo.app-host11.xyz:2095/live/Tourobox1-VTpgsnOoHj/28QmTPho90/398.ts"      
       }   
     ]
   },
