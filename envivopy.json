@@ -884,8 +884,8 @@
       {
         "name": "TEST",
         "drm_scheme": "clearkey",
-        "uri": "https://mtd.llc/live/c6eds/Canal_9_Parana/SA_Live_dash_enc_2A/Canal_9_Parana.mpd",
-        "drm_license_url": "https://dl.dropbox.com/scl/fi/jv141ajje0u69h7hnka2x/KEY.CCANAL.PARANA.json?rlkey=wy35ob5knlklz79fowm64okri&dl=0"   
+        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd",
+        "drm_license_url": "https://dl.dropbox.com/scl/fi/axojwkpveuaa8n9nvnotz/KEY.DAZNF1.json?rlkey=ulfie4ibql8c4cst4nbd1icrk&dl=0"   
       }
     ]
   },
