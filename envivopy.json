@@ -884,8 +884,8 @@
       {
         "name": "TEST",
         "drm_scheme": "clearkey",
-        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd",
-        "drm_license_url": "https://dl.dropbox.com/scl/fi/6crigx4dj4uq919nggisl/KEY.DAZNF1.json?rlkey=acxo1exvg5yteq8qzqvc5w1o6&dl=0"   
+        "uri": "https://mtd.llc/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd",
+        "drm_license_url": "http://api.argentinatv.live/file2/deportv.json"
       }
     ]
   },
