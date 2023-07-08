@@ -19,6 +19,11 @@
       {
         "name": "TIGO HD",
         "uri": "https://b7i4j3n3.stackpathcdn.com/dlive-syngpgndrx/1688844757/src/live.m3u8"
+
+        },
+      {
+        "name": "TIGO TVLA",
+        "uri": "https://ssh101.bozztv.com/ssh101/tvlat/playlist.m3u8"      
       }
     ]
   },
