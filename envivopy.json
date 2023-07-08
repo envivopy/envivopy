@@ -880,6 +880,12 @@
        {
         "name": "DIOS TE VE",
         "uri": "https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "TEST",
+        "drm_scheme": "clearkey",
+        "uri": "https://mtd.llc/live/c6eds/Canal_13_SFE/SA_Live_dash_enc_2A/Canal_13_SFE.mpd",
+        "drm_license_url": "http://api.argentinatv.live/kbx1/telefesfe.json"   
       }
     ]
   },
