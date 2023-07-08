@@ -884,8 +884,8 @@
       {
         "name": "TEST",
         "drm_scheme": "clearkey",
-        "uri": "https://mtd.llc/live/c6eds/Canal_13_SFE/SA_Live_dash_enc_2A/Canal_13_SFE.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/telefesfe.json"   
+        "uri": "https://mtd.llc/live/c6eds/Canal_9_Parana/SA_Live_dash_enc_2A/Canal_9_Parana.mpd",
+        "drm_license_url": "https://dl.dropbox.com/scl/fi/jv141ajje0u69h7hnka2x/KEY.CCANAL.PARANA.json?rlkey=wy35ob5knlklz79fowm64okri&dl=0"   
       }
     ]
   },
