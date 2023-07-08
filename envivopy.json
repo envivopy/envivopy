@@ -295,7 +295,11 @@
       {
         "name": "TEATRIX TV",
         "uri": "http://content-asae1-up-1.uplynk.com/4bfeeae627a24d6a9f0e1ded7b020df0/f.m3u8"
-        
+    },
+      {
+        "name": "TEATRIX TV OPC 2",
+        "uri": "http://mundialtvdigital.com/xd/teatrix.m3u8"
+ 
       }
     ]
   },
