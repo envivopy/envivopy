@@ -886,7 +886,9 @@
         "drm_scheme": "clearkey",
         "uri": "https://dtvott-bpk-bpk.akamaized.net/dash_live_1071/manifest.mpd?da=0&country=AR&accountType=DTH",
         "drm_license_url": "http://api.argentinatv.live/file2/dtv3.json"
-[
+   }
+    ]
+  },
   {
     "name": "ARGENTINA",
     "samples": [
