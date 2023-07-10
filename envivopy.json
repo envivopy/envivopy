@@ -1,7 +1,7 @@
 [
   {
 
-    "name": "si queres ingresar al grupo ablar a este numero +5491134027372",
+    "name": "TIGO SPORTS",
     "samples": [
       {
         "name": "TIGO BOLIVIA",
@@ -13,17 +13,12 @@
 
            },
       {
-        "name": "TIGO futboL Play",
-        "uri": "https://vkvsd97.mycdn.me/hls/4946273503943.m3u8/sig/VqWMkWzgC88/expires/1689026594466/srcIp/201.218.159.12/urls/45.136.22.66/clientType/13/srcAg/CHROME_ANDROID/mid/5994154765255/4946273503943_high/index.m3u8"
+        "name": "TIGO TVLA",
+        "uri": "https://ssh101.bozztv.com/ssh101/tvlat/chunks.m3u8"
         },
       {
         "name": "TIGO HD",
-        "uri": "https://vkvsd35.mycdn.me/hls/4631037479648.m3u8/sig/JCeJxCtjuEQ/expires/1689020704435/srcIp/66.90.74.88/urls/45.136.21.63/clientType/13/srcAg/CHROME_ANDROID/mid/5057309256672/4631037479648_high/index.m3u8"
-
-        },
-      {
-        "name": "TIGO TVLA",
-        "uri": "https://ssh101.bozztv.com/ssh101/tvlat/playlist.m3u8"      
+        "uri": "https://cdnhd.iblups.com/hls/TxIRX36Ndx.m3u8"
       }
     ]
   },
@@ -433,7 +428,7 @@
         "name": "AFICIONADOS",
         "uri": "https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/zbxy4toiwp2s1emzqd3bt/KEY.AFICIONADOS.json?rlkey=ytrlh9rd7tr1midrr342iweph&dl=0"
+        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/aficionados.json"
       },
       {
         "name": "GARAGE TV",
@@ -457,25 +452,10 @@
         "name": "PREMIERE",
         "uri": "https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/datzo5nr08jw7ww/KEY.PREMIER.json" 
-
-      },
+        "drm_license_uri": "https://dl.dropbox.com/s/datzo5nr08jw7ww/KEY.PREMIER.json"    
+     },
       {
-        "name": "PREMIERE 2",
-        "uri": "https://dtvott-jbc.akamaized.net/dash_live_0080/manifest.mpd?da=0&country=UY&accountType=OTT",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/5s6qrsavo2ffu8uu6rkca/KEY.PREMIERE2.json?rlkey=4iui85yu3gsamr7mu5jromnxg&dl=0"
-
-      },
-      {
-      "name": "PREMIERE 3",
-      "uri": "https://dtvott-jbc.akamaized.net/dash_live_0113/manifest.mpd?da=0&country=UY&accountType=OTT",
-	    "drm_scheme": "clearkey",
-      "drm_license_uri": "https://dl.dropbox.com/scl/fi/z34kx4uxka2klc609e2uu/KEY.PREMIERE3.json?rlkey=6unuxs6e4emh2jguw9wx1j8g0&dl=0"
-  
-      },
-      {
-       "name": "DUBAI SPORT",
+  "name": "DUBAI SPORT",
         "uri": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8"
       },
       {
@@ -489,12 +469,6 @@
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://silverplaytv.store/koey/t0ntsp0rt.json"
-
-
-        "name": "FOX SPORTS PREMIUM",
-        "uri": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=91a21f7ffc03b3e46fe348dd0755758e&key=5fe60fd77dfa61dbf41d1a0ac959621d"  
       },
       {
         "name": "FIGHT",
@@ -836,18 +810,12 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/172g4o8n14krxj4/KEY.PLAYBOY.json"
 
-      },
-      {
+   },
+  {
         "name": "VENUS",
         "uri": "http://mtd.llc/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/hh46fty0kuygitj/KEY.VENUS.json" 
-
-      },
-      {
-        "name": "MIAMI TV",
-        "uri": "https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8" 
-    
+        "drm_license_uri": "https://dl.dropbox.com/s/hh46fty0kuygitj/KEY.VENUS.json"      
    }
     ]
   },
