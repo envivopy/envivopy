@@ -413,7 +413,7 @@
         "name": "FOX SPORTS PREMIOUN",
         "uri": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://DL.dropbox.com/scl/fi/2kh7nv61m6a5ezpr42fv1/KEY.POXPRE.json?rlkey=0wdz9quw8nuwqgodsfsa3llxd&dl=0"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/kfqq6vt1l34y8o8shyezs/KEY.AMERICASPORTS.json?rlkey=crstq9x0w0z888yw42qauy8sx&dl=0"
 
 	               
       },
@@ -502,7 +502,7 @@
         "name": "AMERICA SPORTS",
         "uri": "http://edge-live15-hr.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "http://api.argentinatv.live/file2/americasports.json"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/kfqq6vt1l34y8o8shyezs/KEY.AMERICASPORTS.json?rlkey=crstq9x0w0z888yw42qauy8sx&dl=0"
       },
       {
         "name": "LIGA 1",
