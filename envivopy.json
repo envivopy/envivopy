@@ -391,6 +391,13 @@
         "drm_license_uri": "https://helloworl.mariabareiro.repl.co/espnx.json"
       },
       {
+        "name": "TNT SPORT HD",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/t0ntsp0rt.json"
+	      
+      },
+      {
         "name": "FOX SPORTS 1",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
         "drm_scheme": "clearkey",
@@ -410,9 +417,9 @@
 	      
       },
       {
-        "name": "FOX SPORTS PREMIOUN",
+        "name": "FOX SPORTS PREMIUN",
         "uri": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd",
-        "drm_scheme": "clearkey",
+        "drm_scheme": "widevine",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/kfqq6vt1l34y8o8shyezs/KEY.AMERICASPORTS.json?rlkey=crstq9x0w0z888yw42qauy8sx&dl=0"
 
 	               
@@ -487,12 +494,6 @@
         "drm_license_uri": "https://silverplaytv.store/koey/d3p0rtv.json"
       },
       {
-        "name": "TNT SPORT HD",
-        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/t0ntsp0rt.json"
-      },
-      {
         "name": "FIGHT",
         "uri": "https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd",
         "drm_scheme": "clearkey",
@@ -551,7 +552,7 @@
         "name": "TUDN HD",
         "uri" : "https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/TUDN.json"  
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/2x2hoaw9t8mjbwmj6p1ln/KEY.TUDN.json?rlkey=8ohjwohgh5kc97xmd3l4uuq88&dl=0"  
       },
       {
         "name": "TNT SPORTS BRASIL",
