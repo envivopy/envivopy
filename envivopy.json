@@ -9,7 +9,7 @@
       },
       {
         "name": "TIGO EN VIVO",
-        "uri": "https://tgn.bozztv.com/ssh101/ssh101/viralsports/playlist.m3u8"
+        "uri": "https://tgn.bozztv.com/ssh101/ssh101/v/playlist.m3u8"
 
            },
       {
@@ -18,7 +18,7 @@
         },
       {
         "name": "TIGO intermedia",
-        "uri": "http://digipro.ink:8080/live/u1gh/u1gh/233797.ts"
+        "uri": "https://tgn.bozztv.com/ssh101/ssh101/viralsports/playlist.m3u8"
       }
     ]
   },
