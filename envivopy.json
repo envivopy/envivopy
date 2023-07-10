@@ -417,10 +417,10 @@
 	      
       },
       {
-        "name": "FOX SPORTS PREMIUN",
+        "name": "FOX SPORTS PREMIUN off",
         "uri": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/kfqq6vt1l34y8o8shyezs/KEY.AMERICASPORTS.json?rlkey=crstq9x0w0z888yw42qauy8sx&dl=0"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/5m83khgbfa7x41l2flbtd/KEY.POXPRE.json?rlkey=r835h7cgl6oluie2iznxwlcc6&dl=0"
 
 	               
       },
