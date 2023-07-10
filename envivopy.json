@@ -406,7 +406,16 @@
         "name": "FOX SPORTS 3",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port3.json"
+        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port3.json"https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd
+	      
+      },
+      {
+        "name": "FOX SPORTS PREMIOUN",
+        "uri": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://DL.dropbox.com/scl/fi/2kh7nv61m6a5ezpr42fv1/KEY.POXPRE.json?rlkey=0wdz9quw8nuwqgodsfsa3llxd&dl=0"
+
+	               
       },
       {
         "name": "TYC SPORTS",
@@ -828,7 +837,11 @@
         "name": "VENUS",
         "uri": "http://mtd.llc/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/hh46fty0kuygitj/KEY.VENUS.json"      
+        "drm_license_uri": "https://dl.dropbox.com/s/hh46fty0kuygitj/KEY.VENUS.json"
+   },
+  {
+        "name": "MIAMI TV",
+        "uri": "https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8"	  
    }
     ]
   },
