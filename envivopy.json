@@ -654,6 +654,13 @@
         "uri" : "https://edge-live15-sl.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"  
+
+      },
+      {
+        "name": "UNIVERSAL COMEDY",
+        "uri" : "http://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/8gs02i6on9vbrkrojyba1/KEY.UNIVERSAL.COMEDY.json?rlkey=z6h9uqng2opo8a6m8ifwe9ncn&dl=0"      
       },
       {
         "name": "EUROPA EUROPA",
