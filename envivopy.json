@@ -678,11 +678,11 @@
         "uri" : "http://54.39.21.129/hls/228_.m3u8" 
       },
       {
-        "name": "GOLDEN PLUS,
+        "name": "GOLDEN PLUS",
         "uri" : "https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8"
        },
       {
-        "name": "CINE LATINO,
+        "name": "CINE LATINO",
         "uri" : "https://dtvott-cbc.akamaized.net/dash_live_1045/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/og12zfhujjzub5togu56o/KEY.UNIVERSAL.REALITY.json?rlkey=a4fy9o1i7jgqzelc7garxh715&dl=0"  
