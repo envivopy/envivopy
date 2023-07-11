@@ -650,6 +650,44 @@
     "name": "CINE Y SERIES",
     "samples": [
       {
+        "name": "UNIVERSAL COMEDY",
+        "uri" : "http://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/8gs02i6on9vbrkrojyba1/KEY.UNIVERSAL.COMEDY.json?rlkey=z6h9uqng2opo8a6m8ifwe9ncn&dl=0"  
+      },
+      {
+        "name": "UNIVERSAL CRIME",
+        "uri" : "http://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/oqcshr1efisq0lbb79w2p/KEY.UNIVERSAL.CRIME.json?rlkey=ab50erzuvsqyjn26fdx9msfpf&dl=0"  
+      },
+      {
+        "name": "UNIVERSAL PREMIERE",
+        "uri" : "http://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/robmh5ubm9huay6scqpgh/KEY.UNIVERSAL.PREMIERE.json?rlkey=g2sj40pegtoarudvbi88nf8jg&dl=0"  
+      },
+      {
+        "name": "UNIVERSAL REALITY",
+        "uri" : "https://edge-live16-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSeries.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://www.dropbox.com/scl/fi/og12zfhujjzub5togu56o/KEY.UNIVERSAL.REALITY.json?rlkey=a4fy9o1i7jgqzelc7garxh715&dl=0"  
+      },
+      {
+        "name": "GOLDEN",
+        "uri" : "http://54.39.21.129/hls/228_.m3u8" 
+      },
+      {
+        "name": "GOLDEN PLUS,
+        "uri" : "https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8"
+       },
+      {
+        "name": "CINE LATINO,
+        "uri" : "https://dtvott-cbc.akamaized.net/dash_live_1045/manifest.mpd"
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://www.dropbox.com/scl/fi/og12zfhujjzub5togu56o/KEY.UNIVERSAL.REALITY.json?rlkey=a4fy9o1i7jgqzelc7garxh715&dl=0"  
+      },
+      {
         "name": "TCM",
         "uri" : "https://edge-live15-sl.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd",
         "drm_scheme": "widevine",
