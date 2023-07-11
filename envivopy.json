@@ -649,6 +649,7 @@
   {
     "name": "CINE Y SERIES",
     "samples": [
+
       {
         "name": "UNIVERSAL COMEDY",
         "uri" : "http://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd",
@@ -685,14 +686,13 @@
         "name": "CINE LATINO,
         "uri" : "https://dtvott-cbc.akamaized.net/dash_live_1045/manifest.mpd"
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://www.dropbox.com/scl/fi/og12zfhujjzub5togu56o/KEY.UNIVERSAL.REALITY.json?rlkey=a4fy9o1i7jgqzelc7garxh715&dl=0"  
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/og12zfhujjzub5togu56o/KEY.UNIVERSAL.REALITY.json?rlkey=a4fy9o1i7jgqzelc7garxh715&dl=0"  
       },
       {
         "name": "TCM",
         "uri" : "https://edge-live15-sl.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"  
-
       },
       {
         "name": "UNIVERSAL COMEDY",
