@@ -659,7 +659,7 @@
       {
         "name": "UNIVERSAL COMEDY",
         "uri" : "http://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd",
-        "drm_scheme": "widevine",
+        "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/8gs02i6on9vbrkrojyba1/KEY.UNIVERSAL.COMEDY.json?rlkey=z6h9uqng2opo8a6m8ifwe9ncn&dl=0"      
       },
       {
