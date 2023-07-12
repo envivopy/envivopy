@@ -25,7 +25,84 @@
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
         "drm_license_url": "http://api.argentinatv.live/file2/telefe.json"
-    }                                                                         
+   }
     ]
   },
+  {       
+   "name": "CANALES 24/7",
+    "samples": [
+      {
+        "name": "GRAN HERMANO CHILE",
+        "uri": "http://i.mjh.nz/PlutoTV/645505747cb4b10008492e03-alt.m3u8"
+      },
+      {
+     "name": "PEQUE TV",
+        "uri": "http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"	      
+      },
+      {
+        "name": "LOS SIMPSON",
+        "uri": "http://149.56.44.10/hls/128_.m3u8"
+      },
+      {
+     "name": "EL CHAVO",
+        "uri": "https://6362ca6f1fc28.streamlock.net/elchavoplus/elchavoplus/chunklist.m3u8" 
+      },
+      {
+     "name": "EL CHAPULIN COLORADO",
+        "uri": "http://149.56.44.10/hls/131_.m3u8"   
+      },
+      {
+     "name": "BOB SPONJA",
+        "uri": "http://51.159.104.29:8080/bobesponja/index.m3u8"   
+        
+      },
+      {
+        "name": "Dragon Ball",
+        "uri": "http://149.56.44.10/hls/136_.m3u8"
+      },
+      {
+        "name": "Dragon Ball Z",
+        "uri": "http://149.56.44.10/hls/143_.m3u8"
+  },
   {
+   "name": "Dragon Ball GT",
+        "uri": "http://149.56.44.10/hls/134_.m3u8"
+    
+       },
+      {
+   "name": "COYOTE CORRE CAMINO",
+        "uri": "http://api.argentinatv.live/hls2/96/index.m3u8" 
+      },
+      {
+   "name": "FUTURAMA",
+        "uri": "https://6362ca6f1fc28.streamlock.net/cloudtvplus/cloudtvplus/chunklist.m3u8" 
+      },
+      {
+     "name": "Ben 10",
+        "uri": "http://51.159.104.29:8080/ben10/index.m3u8"  
+      },
+      {
+     "name": "CINE CARTOON",
+        "uri": "https://6362ca6f1fc28.streamlock.net/cinecartoon/cinecartoon/chunklist.m3u8"   
+     },
+      {
+     "name": "TOM Y JERRY",
+        "uri": "https://6362ca6f1fc28.streamlock.net/tomyjerry/tomyjerry/chunklist.m3u8"  
+       },
+       {
+        "name": "DIOS TE VE",
+        "uri": "https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "TEST",
+        "drm_scheme": "clearkey",
+        "uri": "https://dtvott-bpk-bpk.akamaized.net/dash_live_1071/manifest.mpd?da=0&country=AR&accountType=DTH",
+        "drm_license_url": "http://api.argentinatv.live/file2/dtv3.json"
+      }
+    ]
+  }
+]
+
+
+
+        
