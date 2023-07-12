@@ -289,13 +289,17 @@
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/a97iw0i52tkmqchsfm1ml/KEY.CANAL-12-CORDOBA.json?rlkey=p5ctuf2ahfnbs0kj3by5ituih&dl=0"
-        
-
+      },
+      {
+        "name": "BRAVO TV",
+        "uri": "https://edge-live31-hr.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_2A/BravoTV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/ku3d8yzsa6hqnwyevq8ng/KEY.BRAVO.TV.json?rlkey=5xxws45wqa93j0fuqbpcchkcl&dl=0"
       },
       {
         "name": "TEATRIX TV",
         "uri": "http://content-asae1-up-1.uplynk.com/4bfeeae627a24d6a9f0e1ded7b020df0/f.m3u8"
-    },
+      },
       {
         "name": "TEATRIX TV OPC 2",
         "uri": "http://mundialtvdigital.com/xd/teatrix.m3u8"
