@@ -3,28 +3,24 @@
     "name": "ARGENTINA",
     "samples": [
       {
-        "icon": "https://static.tvar.io/imagenes/americatv.png",
         "name": "AMERICA TV ",
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
         "drm_license_url": "http://api.argentinatv.live/file2/americatv.json"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tvp.png",
         "name": "TV PUBLICA",
         "uri": "http://mtd.llc/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
         "drm_scheme": "clearkey",
         "drm_license_url": "http://api.argentinatv.live/file2/tvp.json"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/elnueve.png",
         "name": "CANAL 9",
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
         "drm_license_url": "http://api.argentinatv.live/file2/elnueve.json"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telefe.png",
         "name": "TELEFE",
         "drm_scheme": "clearkey",
         "uri": "http://mtd.llc/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
