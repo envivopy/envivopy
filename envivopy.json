@@ -791,7 +791,7 @@
       {
         "name": "SONY MOVIES",
         "uri" : "https://edge-live11-hr.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc_2A/Sony_Movies.mpd",
-        "drm_scheme": "widevine",
+        "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/g717mad08q5klglsefvss/KEY.SONY.MOVIES.json?rlkey=wmkx39i1f39w7063x9xgahdxk&dl=0"       
       },
       {
