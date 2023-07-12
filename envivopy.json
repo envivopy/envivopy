@@ -193,8 +193,9 @@
      },
       {
        "name": "canalpropy",
-        "uri": "https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cp0FIY73B2Yg91L639Nk9py6WYEY-NWTlrlUkYc1AvZ9ceSqvXA4-dxT37WDSXQsH7VJUiKA5xb9xT6HyK9USyqbkf0ZgMIFxchK458fgKYddtRp6AhpRmHv6O2Y_zXJHOnfN-iNGSn4uZTU23O66BsjJiz72H2e2MBWhNg7ZXPq2ELNoSRaoSpW8TB1rNzYcgF4EuYr0aM0-PaBHKj4dhkUa5R17m592jqXtXVdATsCcqDwNdgP_h2bAFUbb0czAvyy4i6gkkR740DYu-ug-tieQFzOnGvUohglzOrrCxwCYu-epgWK-IQbgTCc7Dig0pqNdf3GgUA8HlkALBMMe5zz41xNek1zkAbn8wjx-Kh3P770_mBf8C3H029Bv6ozZj3s0S0fYn7wsZ6oUsT7I2ORFABM9-gMQJ_-hZoCqI2q1hZXWZr2VmU2ZmC80Lh3u48QF4ShfoD-OWpX957Pp1AxThlerirEAyxeFhv7Pj51AXxJYLhX3TGN4cZHH80_mnsktJmf55MnHF6T6NBvm6SUW-E98b69AhpoXuW6va05hSOwpyQAOufaCOQj9AcS3vWbwTZIw8eMWXQpV_9X6bBoihgXY6SRum2kJs5CovHv0VAYLbjbWtHfMFoUt9uojjD2L9p8dqhsUBu6E3zuNquabj_SqM-rp4vmoQUwCqInvbA6jchtjsLtYHcWqG26UJDHeo-UU4XZX0f6wEDx76mg3kiwZeKH5pfugvtVdOdqUVg9LXDEFSMlBVFPqFo4SFtBm3rD8_AULm3EWykWdFcIi6WkaxJhQm98qL0zUBTp0nVkJVqi0POT9VftlfvXr3cZlHVdq5GamHNIGostH9G5G3aYfXtUP8D1SkZ3NnrMj_n06-z1e-rRrQJL4juJGgxar7mV5jeKJiLOzBAgASoJdXMtZWFzdC0xMLYF.m3u8"
- 
+        "uri": "https://edge-live31-sl.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_2A/Canal_PRO.mpd",
+         "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/fuc1cc3kj5n08pidrs86h/KEY.CANAL.PRO.json?rlkey=ijdt3v4llyfskms0lixjwg00r&dl=0"
       }
     ]
   },
