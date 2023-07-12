@@ -196,6 +196,12 @@
         "uri": "https://edge-live31-sl.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_2A/Canal_PRO.mpd",
          "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/fuc1cc3kj5n08pidrs86h/KEY.CANAL.PRO.json?rlkey=ijdt3v4llyfskms0lixjwg00r&dl=0"
+     },
+      {
+       "name": "5 DIAS PY",
+       "uri": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A/5_Dias_PY.mpd",
+       "drm_scheme": "clearkey",
+       "drm_license_uri": "hhttps://dl.dropbox.com/scl/fi/skz673js4bbsvccmx381y/KEY.5DIAS.PY.json?rlkey=pidic0abswqxdmf3lcbphoc3x&dl=0"      
       }
     ]
   },
