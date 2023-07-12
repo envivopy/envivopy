@@ -3,10 +3,9 @@
     "name": "EN MANTENIMIENTO",
     "samples": [
       {
-        "name": "AMERICA TV ",
-        "drm_scheme": "clearkey",
-        "uri": "http://mtd.llc/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/americatv.json"
+
+        "name": "ESTRENO Sound of Freedom",
+        "uri": "https://just-click.herokuapp.com/6005436"
       },
       {
         "name": "TV PUBLICA",
