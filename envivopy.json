@@ -1,107 +1,208 @@
 [
   {
-    "name": "EN MANTENIMIENTO",
+
+    "name": "TIGO SPORTS",
     "samples": [
       {
+        "name": "TIGO BOLIVIA",
+        "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"
+      },
+      {
+        "name": "TIGO EN VIVO",
+        "uri": "https://tgn.bozztv.com/ssh101/ssh101/v/playlist.m3u8"
 
+           },
+      {
+        "name": "TIGO TVLA",
+        "uri": "https://ssh101.bozztv.com/ssh101/tvlat/chunks.m3u8"
+        },
+      {
         "name": "ESTRENO Sound of Freedom",
         "uri": "https://just-click.herokuapp.com/6005436"
-      },
-      {
-        "name": "TV PUBLICA",
-        "uri": "http://mtd.llc/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "http://api.argentinatv.live/file2/tvp.json"
-      },
-      {
-        "name": "CANAL 9",
-        "drm_scheme": "clearkey",
-        "uri": "http://mtd.llc/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/elnueve.json"
-      },
-      {
-        "name": "TELEFE",
-        "drm_scheme": "clearkey",
-        "uri": "http://mtd.llc/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
-        "drm_license_url": "http://api.argentinatv.live/file2/telefe.json"
-   }
-    ]
-  },
-  {       
-   "name": "CANALES 24/7",
-    "samples": [
-      {
-        "name": "GRAN HERMANO CHILE",
-        "uri": "http://i.mjh.nz/PlutoTV/645505747cb4b10008492e03-alt.m3u8"
-      },
-      {
-     "name": "PEQUE TV",
-        "uri": "http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"	      
-      },
-      {
-        "name": "LOS SIMPSON",
-        "uri": "http://149.56.44.10/hls/128_.m3u8"
-      },
-      {
-     "name": "EL CHAVO",
-        "uri": "https://6362ca6f1fc28.streamlock.net/elchavoplus/elchavoplus/chunklist.m3u8" 
-      },
-      {
-     "name": "EL CHAPULIN COLORADO",
-        "uri": "http://149.56.44.10/hls/131_.m3u8"   
-      },
-      {
-     "name": "BOB SPONJA",
-        "uri": "http://51.159.104.29:8080/bobesponja/index.m3u8"   
-        
-      },
-      {
-        "name": "Dragon Ball",
-        "uri": "http://149.56.44.10/hls/136_.m3u8"
-      },
-      {
-        "name": "Dragon Ball Z",
-        "uri": "http://149.56.44.10/hls/143_.m3u8"
-  },
-  {
-   "name": "Dragon Ball GT",
-        "uri": "http://149.56.44.10/hls/134_.m3u8"
-    
-       },
-      {
-   "name": "COYOTE CORRE CAMINO",
-        "uri": "http://api.argentinatv.live/hls2/96/index.m3u8" 
-      },
-      {
-   "name": "FUTURAMA",
-        "uri": "https://6362ca6f1fc28.streamlock.net/cloudtvplus/cloudtvplus/chunklist.m3u8" 
-      },
-      {
-     "name": "Ben 10",
-        "uri": "http://51.159.104.29:8080/ben10/index.m3u8"  
-      },
-      {
-     "name": "CINE CARTOON",
-        "uri": "https://6362ca6f1fc28.streamlock.net/cinecartoon/cinecartoon/chunklist.m3u8"   
-     },
-      {
-     "name": "TOM Y JERRY",
-        "uri": "https://6362ca6f1fc28.streamlock.net/tomyjerry/tomyjerry/chunklist.m3u8"  
-       },
-       {
-        "name": "DIOS TE VE",
-        "uri": "https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "TEST",
-        "drm_scheme": "clearkey",
-        "uri": "https://dtvott-bpk-bpk.akamaized.net/dash_live_1071/manifest.mpd?da=0&country=AR&accountType=DTH",
-        "drm_license_url": "http://api.argentinatv.live/file2/dtv3.json"
       }
     ]
-  }
-]
-
-
-
+  },
+  {
+    "name": "CULTURA",
+    "samples": [
+      {
+        "name": "HISTORY",
+        "uri": "https://edge-live15-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
+      },
+      {
+       "name": "HISTORY 2",
+        "uri": "http://edge-live16-hr.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/baef185oipl3vv9ll4uje/KEY.H2.json?rlkey=75h0vb92qmpz4vxmk9upaj3g8&dl=0"
+      },
+      {
         
+        "name": "DISCOVERY",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://ivotv.xyz/panel/keys/discovery.json"
+      },
+      {
+        "name": "DISCOVERY H&H",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
+      },
+      {
+        "name": "DISCOVERY ID",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc_2A/ID.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://ivotv.xyz/panel/keys/discoveryid.json"
+      },
+      {
+        "name": "DISCOVERY SCIENCE",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2A/Discovery_Science.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://ivotv.xyz/panel/keys/discoveryscience.json"
+      },
+      {
+        "name": "DISCOVERY TURBO",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_2A/DiscoveryTurbo.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://ivotv.xyz/panel/keys/discoveryturbo.json"
+      },
+      {
+        "name": "DISCOVERY TEATER",
+        "uri": "https://edge-live12-hr.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
+      },
+      {
+        "name": "DISCOVERY TLC",
+        "uri": "https://edge-live15-hr.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_2A/TLC.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
+      },
+      {
+        "name": "DISCOVERY WORL",
+        "uri": "https://edge-live31-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_2A/Discovery_World_HD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"
+
+      },
+      {
+        "name": "TRU TV",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/TruTV/SA_Live_dash_enc_2A/TruTV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/94yfpwmjrq90kvc9f5svh/KEY.TRU.TV.json?rlkey=drulcoe8uywkmh06ns2pqe0n8&dl=0"
+     
+      }
+    ]
+  },
+  {
+    "name": "PARAGUAY",
+    "samples": [
+      
+      {
+       "name": "SNT",
+        "uri": "https://edge-vod03-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/70r0igk57komgc8/KEY.SNT.json"
+      },
+      {
+        "name": "TELEFUTURO",
+        "uri": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/9i20e2knw5h5mbx/key.telefuturo.json"
+      },  
+      {
+        "name": "RPC",
+        "uri": "https://edge-live15-sl.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/ali4de91dll87bi/KEY.RPC.json"
+
+       },  
+      {
+        "name": "RPC OPC 2", 
+        "uri": "https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/index.m3u8"   
+      },
+      {
+        "name": "NPY",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/npy.json"
+      },
+      {
+        "name": "C9N",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://silverplaytv.store/koey/c9n.json"
+       },
+       {
+        "name": "UNICANAL",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/kdnepaa6vuxflno/KEY.UNICANAL.json"
+      },
+      {
+        "name": "GEN TV",
+        "uri": "http://edge-live16-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/1w2rvmtzxk1447m/KEY.GENTV.json"
+      },
+      {
+        "name": "LA TELE",
+        "uri": "https://edge-live17-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_2A/LA_TELE_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/z1j68op8dtq50sr/KEY.LATELE.json"
+      },
+      {
+        "name": "PARAVISION",
+        "uri": "https://edge-vod03-hr.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/hwvh6ihwd8cdm3r/KEY.PARAVISON.json"
+ 
+      },
+      {
+        "name": "TELEFUTURO",
+        "uri": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/9i20e2knw5h5mbx/key.telefuturo.json"
+      },
+      {
+        "name": "ABC",
+        "uri": "https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8"
+
+     },
+      {
+        "name": "RTV",
+        "uri": "http://video.camaronhosting.com/holdingparana/holdingparana/playlist.m3u8" 
+      },
+      {
+       "name": "PARAGUAY TV",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/iigq4s9v3pzvdva/KEY.PARAGUAY.TV.json" 
+      },
+      {
+        "name": "UNICANAL",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://DL.dropbox.com/scl/fi/q1xgdm97ulc9btp7u518k/KEY.UNICANAL.json?rlkey=8owvio0d7wja37mxj1159x85e&dl=0"
+     },
+      {
+       "name": "CENTRAL TV",
+        "uri": "https://cloudtv.streaming.com.py/centraltv/centraltv/playlist.m3u8"
+     },
+      {
+       "name": "canalpropy",
+        "uri": "https://edge-live31-sl.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_2A/Canal_PRO.mpd",
+         "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/fuc1cc3kj5n08pidrs86h/KEY.CANAL.PRO.json?rlkey=ijdt3v4llyfskms0lixjwg00r&dl=0"
+     },
+      {
+       "name": "5 DIAS PY",
+       "uri": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A/5_Dias_PY.mpd",
+       "drm_scheme": "clearkey",
+       "drm_license_uri": "https://dl.dropbox.com/scl/fi/skz673js4bbsvccmx381y/KEY.5DIAS.PY.json?rlkey=pidic0abswqxdmf3lcbphoc3x&dl=0"      
+      }
+    ]
+  },
+  {
