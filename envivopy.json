@@ -9,7 +9,7 @@
       },
       {
         "name": "TIGO EN VIVO",
-        "uri": "https://tgn.bozztv.com/ssh101/ssh101/video/playlist.m3u8"
+        "uri": "https://vsd132.mycdn.me/hls/4831160240807.m3u8/sig/wvIi5E8jRo8/expires/1689372290655/srcIp/190.175.19.232/urls/185.226.53.56/clientType/1/srcAg/UNKNOWN_ANDROID/mid/6521622437543/video.m3u8"
 
            },
       {
@@ -18,7 +18,7 @@
         },
       {
         "name": "copa paraguay",
-        "uri": "https://vkvsd62.mycdn.me/hls/4966793939655.m3u8/sig/MavzP6U_5N4/srcIp/201.218.159.12/urls/45.136.21.80/expires/1689742002427/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/6062179625927/id/4966793939655/4966793939655_high/index.m3u8"
+        "uri": "https://vsd132.mycdn.me/hls/4831160240807.m3u8/sig/wvIi5E8jRo8/expires/1689372290655/srcIp/190.175.19.232/urls/185.226.53.56/clientType/1/srcAg/UNKNOWN_ANDROID/mid/6521622437543/4831160240807_high/index.m3u8"
       }
     ]
   },
