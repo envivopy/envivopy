@@ -92,7 +92,6 @@
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/TruTV/SA_Live_dash_enc_2A/TruTV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/94yfpwmjrq90kvc9f5svh/KEY.TRU.TV.json?rlkey=drulcoe8uywkmh06ns2pqe0n8&dl=0"
-     
       }
     ]
   },
@@ -201,7 +200,123 @@
        "name": "5 DIAS PY",
        "uri": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A/5_Dias_PY.mpd",
        "drm_scheme": "clearkey",
-       "drm_license_uri": "https://dl.dropbox.com/scl/fi/skz673js4bbsvccmx381y/KEY.5DIAS.PY.json?rlkey=pidic0abswqxdmf3lcbphoc3x&dl=0"      
+       "drm_license_uri": "https://dl.dropbox.com/scl/fi/skz673js4bbsvccmx381y/KEY.5DIAS.PY.json?rlkey=pidic0abswqxdmf3lcbphoc3x&dl=0"  
+      },
+      {
+        "name": "HBO POP",
+        "uri": "https://edge-vod03-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/ps12mn29wzvvvyx/KEY.HBO.POP.json",
+        
+      }
+    ]
+  },
+  {
+    "name": "CINE Y SERIES",
+    "samples": [
+      {
+        "name": "UNIVERSAL COMEDY",
+        "uri" : "http://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/8gs02i6on9vbrkrojyba1/KEY.UNIVERSAL.COMEDY.json?rlkey=z6h9uqng2opo8a6m8ifwe9ncn&dl=0"  
+      },
+      {
+        "name": "UNIVERSAL CRIME",
+        "uri" : "http://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/oqcshr1efisq0lbb79w2p/KEY.UNIVERSAL.CRIME.json?rlkey=ab50erzuvsqyjn26fdx9msfpf&dl=0"  
+      },
+      {
+        "name": "UNIVERSAL PREMIERE",
+        "uri" : "http://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/robmh5ubm9huay6scqpgh/KEY.UNIVERSAL.PREMIERE.json?rlkey=g2sj40pegtoarudvbi88nf8jg&dl=0"  
+      },
+      {
+        "name": "UNIVERSAL REALITY",
+        "uri" : "https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/kgbkq3i9w3o9jm7avlxxa/KEY.UNIVERSAL.REALITY.json?rlkey=wpuj0f8y5agjfhfwu45bdx6ct&dl=0"  
+      },
+      {
+        "name": "GOLDEN",
+        "uri" : "http://54.39.21.129/hls/228_.m3u8" 
+      },
+      {
+        "name": "GOLDEN PLUS",
+        "uri" : "https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8"
+       },
+      {
+        "name": "CINE LATINO",
+        "uri" : "https://dtvott-cbc.akamaized.net/dash_live_1045/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/kikw0e7fpau9bx3x06y6p/KEY.CINE-LATINO.json?rlkey=tfy2ov0o0cy04p7formtmwtzn&dl=0"  
+      },
+      {
+        "name": "TCM",
+        "uri" : "https://edge-live15-sl.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"  
+      },
+      {
+        "name": "UNIVERSAL COMEDY",
+        "uri" : "http://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/8gs02i6on9vbrkrojyba1/KEY.UNIVERSAL.COMEDY.json?rlkey=z6h9uqng2opo8a6m8ifwe9ncn&dl=0"      
+      },
+      {
+        "name": "EUROPA EUROPA",
+        "uri" : "https://edge-live31-sl.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc_2A/Europa_Europa.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"  
+      },
+      {
+        "name": "CINECANAL",
+        "uri" : "https://edge-live11-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"  
+      },
+      {
+        "name": "TNT HD",
+        "uri" : "https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"  
+      },
+      {
+        "name": "TNT SERIES",
+        "uri" : "https://edge-live16-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSeries.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"  
+      },
+      {
+        "name": "CINEMAX",
+        "uri" : "https://edge-live12-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"  
+      },
+      {
+        "name": "FXD",
+        "uri" : "https://edge-live31-hr.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"  
+      },
+      {
+        "name": "SPACE HD",
+        "uri" : "https://edge-live13-hr.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"  
+      },
+      {
+        "name": "METRO",
+        "uri" : "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"  
+      },
+      {
+        "name": "STAR Channel",
+        "uri" : "https://edge-live16-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://wv-client.cvattv.com.ar/?deviceId=NWFjNmEzNmY1ZTIxMzljYzA1ZTVjYWE4ZDg0MWRlYjI%3D"     
       }
     ]
   },
