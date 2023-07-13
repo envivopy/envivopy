@@ -200,14 +200,7 @@
        "name": "5 DIAS PY",
        "uri": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A/5_Dias_PY.mpd",
        "drm_scheme": "clearkey",
-       "drm_license_uri": "https://dl.dropbox.com/scl/fi/skz673js4bbsvccmx381y/KEY.5DIAS.PY.json?rlkey=pidic0abswqxdmf3lcbphoc3x&dl=0"  
-      },
-      {
-        "name": "HBO POP",
-        "uri": "https://edge-vod03-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/ps12mn29wzvvvyx/KEY.HBO.POP.json",
-        
+       "drm_license_uri": "https://dl.dropbox.com/scl/fi/skz673js4bbsvccmx381y/KEY.5DIAS.PY.json?rlkey=pidic0abswqxdmf3lcbphoc3x&dl=0"    
   },
   {
     "name": "CINE Y SERIES",
