@@ -137,9 +137,9 @@
        },
        {
         "name": "UNICANAL",
-        "uri": "http://edge-live11-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/y6qtk9ubopyug63p2fgq8/KEY.UNICANAL.json?rlkey=8fv5ab32jde2r6tqep7n4k9je&dl=0"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/t8uhs5atot75v9kw5grlt/KEY.UNICANAL.json?rlkey=04ov64vqs22z2forgtfeialyo&dl=0"
       },
       {
         "name": "GEN TV",
@@ -183,16 +183,16 @@
       },
       {
         "name": "UNICANAL",
-        "uri": "http://edge-live15-sl.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc_2A/Mega_TV.mpd",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/q1xgdm97ulc9btp7u518k/KEY.UNICANAL.json?rlkey=8owvio0d7wja37mxj1159x85e&dl=0"
 
      },
       {
         "name": "MEGA TV",
-        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+        "uri": "http://edge-live15-sl.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc_2A/Mega_TV.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/yazphypt0fdf0wybt3q6d/KEY.MEGA-TV.json?rlkey=xn6f104t4xdlc86s6ars236uk&dl=0"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/zdz11z81el8qov9wnyvwn/KEY.MEGA-TV1.json?rlkey=gqyyra9dd5k10rkcn5r71426m&dl=0"
 	      
      },
       {
