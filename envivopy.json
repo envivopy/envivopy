@@ -722,7 +722,7 @@
         "name": "WARNEL CHANELL",
         "uri" : "http://edge-live11-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://www.dropbox.com/scl/fi/uzche0b1a7bxrk2knhqg7/KEY.WARNER.CHANNEL.json?rlkey=viinf3c5imgaj5n8ebaa4sjul&dl=0"       
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/uzche0b1a7bxrk2knhqg7/KEY.WARNER.CHANNEL.json?rlkey=viinf3c5imgaj5n8ebaa4sjul&dl=0"       
       },
       {
         "name": "TCM",
