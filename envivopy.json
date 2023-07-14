@@ -1014,8 +1014,7 @@
       },
       {
         "name": "TEST",
-        "drm_scheme": "clearkey",
-        "uri": "http://balancer.cdniptv.com:4444/co_fox_premiun_movie/mpegts"
+        "uri": "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"
       }
     ]
   },
