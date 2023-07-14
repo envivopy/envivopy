@@ -127,19 +127,19 @@
         "name": "NPY",
         "uri": "http://edge-live11-hr.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/npy.json"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wmdyfjtx1t6gdoonqzdp7/KEY.NPY.json?rlkey=ds2241ejehvlvi69xyjvnryfn&dl=0"
       },
       {
         "name": "C9N",
         "uri": "http://edge-live11-hr.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/c9n.json"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/4xslpl7mf646178r4dff1/KEY.c9n.json?rlkey=0ynm9yhtlsc7hwcy4xfsjte0v&dl=0"
        },
        {
         "name": "UNICANAL",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
+        "uri": "http://edge-live11-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/kdnepaa6vuxflno/KEY.UNICANAL.json"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/y6qtk9ubopyug63p2fgq8/KEY.UNICANAL.json?rlkey=8fv5ab32jde2r6tqep7n4k9je&dl=0"
       },
       {
         "name": "GEN TV",
@@ -183,9 +183,17 @@
       },
       {
         "name": "UNICANAL",
+        "uri": "http://edge-live15-sl.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc_2A/Mega_TV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/q1xgdm97ulc9btp7u518k/KEY.UNICANAL.json?rlkey=8owvio0d7wja37mxj1159x85e&dl=0"
+
+     },
+      {
+        "name": "MEGA TV",
         "uri": "http://edge-live11-hr.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://DL.dropbox.com/scl/fi/q1xgdm97ulc9btp7u518k/KEY.UNICANAL.json?rlkey=8owvio0d7wja37mxj1159x85e&dl=0"
+        "drm_license_uri": "https://www.dropbox.com/scl/fi/yazphypt0fdf0wybt3q6d/KEY.MEGA-TV.json?rlkey=xn6f104t4xdlc86s6ars236uk&dl=0"
+	      
      },
       {
        "name": "CENTRAL TV",
@@ -244,7 +252,7 @@
         "name": "TELEFE",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/t3l3f3.json"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/ckf5zojjikq9v5phkwgdp/KEY.TELEFE.json?rlkey=gi2h8txpf1b9agaflo6g1v5a0&dl=0"
       },
       {
         "name": "LN+",
@@ -256,14 +264,14 @@
         "name": "CRONICA TV",
         "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/cr0n1c4.json"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/xuddigrz6hxqxn0wj2xfm/KEY.CRONICA.TV.json?rlkey=tbt7trfodbo6gkxm5w7vtvmj1&dl=0"
 
         },
         {
         "name": "CANAL 26",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/c4n4l26.json"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/6rnhvi466d8c62tackc3m/KEY.CANAL.26.json?rlkey=edi6dma78hs5uui9kkf9owazz&dl=0"
 
 
       },
@@ -393,7 +401,7 @@
         "name": "ESPN",
         "uri": "http://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "hhttps://dl.dropbox.com/scl/fi/qedulk11tqdir2qzdkxsw/KEY.SPAN2HD.json?rlkey=syvp8ik8da92nchm73j2ylu4m&dl=0"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/1kl9uswdqdpdxitn1zliq/KEY.SPAN_HD.json?rlkey=ntn9i40onqnfxznasx5tf8at6&dl=0"
       },
       {
         "name": "ESPN 2",
@@ -411,32 +419,32 @@
         "name": "ESPN XTRA",
         "uri": "http://edge-live16-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://www.dropbox.com/scl/fi/xvcb2rtotyfjdjwmvsiew/KEY.SPEN.EXTRA.json?rlkey=w2kggctnu2dqyawwtmf0ad5jc&dl=0"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/xvcb2rtotyfjdjwmvsiew/KEY.SPEN.EXTRA.json?rlkey=w2kggctnu2dqyawwtmf0ad5jc&dl=0"
       },
       {
         "name": "TNT SPORT HD",
-        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
+        "uri": "http://edge-live13-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/t0ntsp0rt.json"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/j7zajiko6y5god5ldve5c/KEY.TNT.SPORTS.json?rlkey=bl67cfqphplgsl4oe40322jof&dl=0"
 	      
       },
       {
         "name": "FOX SPORTS 1",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port.json"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/j7zajiko6y5god5ldve5c/KEY.TNT.SPORTS.json?rlkey=bl67cfqphplgsl4oe40322jof&dl=0"
       },
       {
         "name": "FOX SPORTS 2",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port2.json"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/1kl9uswdqdpdxitn1zliq/KEY.SPAN_HD.json?rlkey=ntn9i40onqnfxznasx5tf8at6&dl=0"
       },
       {
         "name": "FOX SPORTS 3",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/f0x5port3.json"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/rz1c8z7s0dm14ld6f2uo1/KEY.FOX.SPORTS3.json?rlkey=rlo6danu5d85evu8fllgpwscp&dl=0"
 	      
       },
       {
