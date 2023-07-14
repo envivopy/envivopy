@@ -192,7 +192,7 @@
         "name": "MEGA TV",
         "uri": "http://edge-live11-hr.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://www.dropbox.com/scl/fi/yazphypt0fdf0wybt3q6d/KEY.MEGA-TV.json?rlkey=xn6f104t4xdlc86s6ars236uk&dl=0"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/yazphypt0fdf0wybt3q6d/KEY.MEGA-TV.json?rlkey=xn6f104t4xdlc86s6ars236uk&dl=0"
 	      
      },
       {
@@ -432,13 +432,13 @@
         "name": "FOX SPORTS 1",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/j7zajiko6y5god5ldve5c/KEY.TNT.SPORTS.json?rlkey=bl67cfqphplgsl4oe40322jof&dl=0"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/a765cfi52e6q37m8biz7p/KEY.FOX.SPORTS1.json?rlkey=962mjwy7qmpb8wczu520wrz9q&dl=0"
       },
       {
         "name": "FOX SPORTS 2",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/1kl9uswdqdpdxitn1zliq/KEY.SPAN_HD.json?rlkey=ntn9i40onqnfxznasx5tf8at6&dl=0"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/k9dh5ew1a86vy8iwct0dh/KEY.FOX.SPORTS2.json?rlkey=l5ilfcfkv0jwyfpq3ddxg85cb&dl=0"
       },
       {
         "name": "FOX SPORTS 3",
