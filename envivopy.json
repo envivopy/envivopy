@@ -405,9 +405,9 @@
       },
       {
         "name": "ESPN 2",
-        "uri": "http://201.235.66.116/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
+        "uri": "http://edge-live17-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/qedulk11tqdir2qzdkxsw/KEY.SPAN2HD.json?rlkey=syvp8ik8da92nchm73j2ylu4m&dl=0"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/60nodgy1zvbs1u7s1zhaw/KEY.SPAN2_HD.json?rlkey=co8enjkexfcw77aekywk7inzj&dl=0"
       },
       {
         "name": "ESPN 3",
