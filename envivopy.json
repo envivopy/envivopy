@@ -914,6 +914,32 @@
       {
         "name": "GRAN HERMANO CHILE",
         "uri": "http://i.mjh.nz/PlutoTV/645505747cb4b10008492e03-alt.m3u8"
+
+          },
+	  {
+        "name": "PAKA_PAKA",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/axfm0vpwdoy0b9ozf89ba/KEY.pakaka.json?rlkey=irla1oqbrvwvydg0s96jpnlav&dl=0"
+
+      },
+	  {
+        "name": "Boomerang",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https:/dl.dropbox.com/scl/fi/26dnkj393rao5fiq4duox/KEY.Nickelodeon.json?rlkey=1rspyg59bwwhfcnvog6lrspnf&dl=0"	  
+          },
+	  {
+        "name": "Tooncast",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/g9f1vbscuvaoapkxe7mpj/KEY.Tooncast.json?rlkey=gbx8u8lfr07n0epo0zs13c5wp&dl=0"	 
+         },
+	  {
+        "name": "Nickelodeon",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/26dnkj393rao5fiq4duox/KEY.Nickelodeon.json?rlkey=1rspyg59bwwhfcnvog6lrspnf&dl=0"	  
       },
       {
      "name": "PEQUE TV",
