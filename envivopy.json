@@ -409,9 +409,9 @@
       },
       {
         "name": "ESPN XTRA",
-        "uri": "https://edge-live17-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+        "uri": "http://edge-live16-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/xvcb2rtotyfjdjwmvsiew/KEY.SPEN.EXTRA.json?rlkey=w2kggctnu2dqyawwtmf0ad5jc&dl=0"
+        "drm_license_uri": "https://www.dropbox.com/scl/fi/xvcb2rtotyfjdjwmvsiew/KEY.SPEN.EXTRA.json?rlkey=w2kggctnu2dqyawwtmf0ad5jc&dl=0"
       },
       {
         "name": "TNT SPORT HD",
