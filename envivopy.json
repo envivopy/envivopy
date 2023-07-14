@@ -183,9 +183,9 @@
       },
       {
         "name": "UNICANAL",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
+        "uri": "http://edge-live11-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/q1xgdm97ulc9btp7u518k/KEY.UNICANAL.json?rlkey=8owvio0d7wja37mxj1159x85e&dl=0"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/c576n8ruv8vldlti40a1e/KEY.UNICANAL-1.json?rlkey=0d6s80wnw3yxnzu60gmrfuelr&dl=0"
 
      },
       {
@@ -716,6 +716,13 @@
         "uri" : "https://dtvott-cbc.akamaized.net/dash_live_1045/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/kikw0e7fpau9bx3x06y6p/KEY.CINE-LATINO.json?rlkey=tfy2ov0o0cy04p7formtmwtzn&dl=0"  
+     },
+      {
+
+        "name": "WARNEL CHANELL",
+        "uri" : "http://edge-live11-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://www.dropbox.com/scl/fi/uzche0b1a7bxrk2knhqg7/KEY.WARNER.CHANNEL.json?rlkey=viinf3c5imgaj5n8ebaa4sjul&dl=0"       
       },
       {
         "name": "TCM",
