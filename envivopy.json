@@ -9,7 +9,7 @@
       },
       {
         "name": "TIGO EN VIVO",
-        "uri": "https://vkvsd167.mycdn.me:443/hls/4960325601974.m3u8/sig/bUwR4GYhuSQ/srcIp/186.128.75.192/urls/45.136.20.62/expires/1689872440133/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7243655818166/id/4960325601974/4960325601974_medium/index.m3u8"
+        "uri": "https://live.prd.dlive.tv/hls/live/dlive-jzsbmrxoxc.m3u8?mobileweb=true"
 
       },
       {
@@ -18,12 +18,12 @@
         },
       {
         "name": "TIGO EN VIVO",
-        "uri": "https://vsd219.mycdn.me/hls/4841677916839.m3u8/sig/1j4FVer9JQo/expires/1689549864110/srcIp/190.12.109.196/urls/185.226.52.91/clientType/1/srcAg/CHROME_ANDROID/mid/6572002385575/4841677916839_high/index.m3u8"
+        "uri": "https://live.prd.dlive.tv/hls/live/dlive-jzsbmrxoxc.m3u8?mobileweb=true8"
 
       },
       {
         "name": "tigo HD",
-        "uri": "https://vsd96.mycdn.me/hls/4831160240807.m3u8/sig/HaWPhmxgtBg/expires/1689537348062/srcIp/190.175.11.1/urls/45.136.21.63/clientType/1/srcAg/UNKNOWN_ANDROID/mid/6521622437543/4831160240807_medium/index.m3u8"
+        "uri": "https://live.prd.dlive.tv/hls/live/dlive-jzsbmrxoxc.m3u8?mobileweb=true"
       }
     ]
   },
