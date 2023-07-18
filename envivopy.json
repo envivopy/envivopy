@@ -1,12 +1,19 @@
-[
+
+      }
+    ]
+  },
   {
 
-    "name": "SI QUERES SEGUIR DISFRUTANDO DE NUESTRA PROGRAMACION PONTE EN CONTACTO CON TU PROVEEDOR",
+    "name": "SI QUERES SEGUIR DISFRUTANDO DE NUESTRA PROGRAMACION ",
     "samples": [
       {
+        "name": "PONTE EN CONTACTO CON TU PROVEEDOR",
+        "uri": "https://bit.ly/"
+      },
+      {
         "name": "DESCARGA LA ULTIVA VERSION DE NUESTA APLICACIÓN",
-        "uri": "https://bit.ly/tvDIG"
-
+        "uri": "https://bit.ly/",
+    
       }
     ]
   },
