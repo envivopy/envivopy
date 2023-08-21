@@ -27,21 +27,21 @@
     "samples": [
       {
         "name": "HISTORY",
-        "uri": "https://v3.playerlatino.live/stream/m3u8/67"
+        "uri": "http://ts5.tvcluboficial.com/ts/HistoryChannel_LD/_29129.ts"
       },
       {
        "name": "HISTORY 2",
-        "uri": "https://v3.playerlatino.live/stream/m3u8/61"
+        "uri": "http://ts5.tvcluboficial.com/ts/H2/_561643.ts"
       },
       {
         
         "name": "DISCOVERY",
-        "uri": "https://v3.playerlatino.live/stream/m3u8/22"
+        "uri": "http://ts5.tvcluboficial.com/ts/DiscoveryChannel_LD/_29089.ts"
 
       },
       {
         "name": "DISCOVERY H&H",
-        "uri": "https://v3.playerlatino.live/stream/m3u8/24"
+        "uri": "https://v3.playerlatino.live/stream/m3u8"
       },
       {
         "name": "DISCOVERY ID",
