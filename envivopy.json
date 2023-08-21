@@ -27,52 +27,46 @@
     "samples": [
       {
         "name": "HISTORY",
-        "uri": "https://v3.playerlatino.live/stream/m3u8/67",
+        "uri": "https://v3.playerlatino.live/stream/m3u8/67"
       },
       {
        "name": "HISTORY 2",
-        "uri": "https://v3.playerlatino.live/stream/m3u8/61",
+        "uri": "https://v3.playerlatino.live/stream/m3u8/61"
       },
       {
         
         "name": "DISCOVERY",
-        "uri": "https://v3.playerlatino.live/stream/m3u8/22",
+        "uri": "https://v3.playerlatino.live/stream/m3u8/22"
 
       },
       {
         "name": "DISCOVERY H&H",
-        "uri": "https://v3.playerlatino.live/stream/m3u8/24",
+        "uri": "https://v3.playerlatino.live/stream/m3u8/24"
       },
       {
         "name": "DISCOVERY ID",
-        "uri": "https://v3.playerlatino.live/stream/m3u8/68",
+        "uri": "https://v3.playerlatino.live/stream/m3u8/68"
       },
       {
         "name": "DISCOVERY SCIENCE",
-        "uri": "https://v3.playerlatino.live/stream/m3u8/26",
+        "uri": "https://v3.playerlatino.live/stream/m3u8/26"
       },
       {
         "name": "DISCOVERY TURBO",
-        "uri": "https://v3.playerlatino.live/stream/m3u8/28",
+        "uri": "https://v3.playerlatino.live/stream/m3u8/28"
       },
       {
         "name": "ANIMAL PLANET",
-        "uri": "https://v3.playerlatino.live/stream/m3u8/3",
+        "uri": "https://v3.playerlatino.live/stream/m3u8/3"
       },
       {
         "name": "DISCOVERY SIVILIZACION ",
-        "uri": "https://v3.playerlatino.live/stream/m3u8/23",
+        "uri": "https://v3.playerlatino.live/stream/m3u8/23"
       },
       {
         "name": "DISCOVERY WORL",
-        "uri": "https://v3.playerlatino.live/stream/m3u8/187",
-      },
-      {
-        "name": "TRU TV",
-        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/TruTV/SA_Live_dash_enc_2A/TruTV.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/94yfpwmjrq90kvc9f5svh/KEY.TRU.TV.json?rlkey=drulcoe8uywkmh06ns2pqe0n8&dl=0"
-     
+        "uri": "https://v3.playerlatino.live/stream/m3u8/187"
+
       }
     ]
   },
