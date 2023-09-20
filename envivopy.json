@@ -1,7 +1,7 @@
 [
 
   {
-    "name": "ADULTOS",
+    "name": "ADULTOSS",
     "samples": [
          {  
         "uri": "https://edge-live13-sl.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
@@ -17,7 +17,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34237d2ae6684ee7a011f5b9c7c43e6d&key=05d973d987915120e567880f50a422af"
 
       [
-    {
+      {
         "name": "BANGBROS",
         "samples": [
             {
