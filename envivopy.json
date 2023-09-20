@@ -16,8 +16,11 @@
         "uri": "https://edge-vod06-sl.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34237d2ae6684ee7a011f5b9c7c43e6d&key=05d973d987915120e567880f50a422af"
-  [
-    {
+        }
+    ]
+  },
+  {
+
     "name": "ADULTOS",
     "samples": [
          {  
