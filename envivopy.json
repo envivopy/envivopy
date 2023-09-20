@@ -7,7 +7,7 @@
         "uri": "https://edge-live13-sl.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8577d81eaf33436d9f1e482360685a7c&key=f608a0ac703cfaaf9442574d9a2b87fb"
-	      "icono": "https://www.televisiongratis.tv/components/com_televisiongratis/images/imgcache/playboy-3183_585x731.jpg"  
+
 
    },
    {
@@ -15,7 +15,7 @@
         "uri": "https://edge-vod06-sl.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34237d2ae6684ee7a011f5b9c7c43e6d&key=05d973d987915120e567880f50a422af"
-	   "icono": "https://pngset.com/images/canal-venus-logo-logo-canal-venus-cross-symbol-word-label-transparent-png-2811006.png"  
+
        }
     ]
   },
