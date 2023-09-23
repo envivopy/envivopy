@@ -453,7 +453,6 @@
       },
       {
         "name": "Canal 8 San Juan",
-        "icon": "http://167.114.129.223/web/webp/logos/canalochosanjuan.png",
         "uri": "https://servicios.dplay.tech/canal8sanjuan.m3u8"
       }
     ]
