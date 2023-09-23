@@ -15,310 +15,308 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34237d2ae6684ee7a011f5b9c7c43e6d&key=05d973d987915120e567880f50a422af"
       },
       {
-            "name": "VOD-XXX",
-            "name": "CANAL DE MUSICA",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/BANG%20BROS%202.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/BANG%20BROS%203.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_5a2ca8e2cd5b6bf1a494a6b0065f21fb.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_7be03e0737e48b3f6f6d9622314ecdd8.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_30a14562542f1db07f0e66cd9564c050.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_31a836d3b2b192fd069f3ca2c6c2127d.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_60e74a4fd113372dbab3440d73cf8f04.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_62e584df33533496ead236a5f05a8763.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_73f7866755a11044f7dd64f952cf166c.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_77bb49e764ec56ba9988137f99450c99.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_73f7866755a11044f7dd64f952cf166c.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_853cbbd4770ac901a470aab4345fccf4.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_1193e3f448d61f744d075b794b377253.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_3884dd853c8069ead536434ee14f487b.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_850460f9fafbca6c291bfe4c03efb28c.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_bd0fa23d2951657f70dc596dff82b4da.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_bf9f1844df8e93ca6658af4a1ea17930.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_d6fd369f0f5339542e4b0d2e4a466fad.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_d57345cbfd57c9dace164c86ef7b8ff4.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_dbd23206afa3575e4f6817e428bd89d1.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_e99aee689a2e9b7b9e4af5b292304e70.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_e457520ae82126d85b3051736b558615.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_dbd23206afa3575e4f6817e428bd89d1.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_f2cdfe3fa906e156ad15254537cfa271.mp4"
-          },
-          {
-            "name": "VOD-XXX",
-            "uri": "https://tvinnov.online/XXX/BANGBROS/orig_f68c702dfc7637b8f23bbf20c5de317a.mp4"
-          }
-        ]
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/BANG%20BROS%202.mp4"
       },
       {
-        "name": "INTERIOR DE ARGENTINA",
-        "samples": [
-          {
-            "name": "CANAL 12 MISIONES",
-            "uri": "http://edge-live17-hr.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_Live_dash_enc_2A/CH_12_Posadas.mpd"
-          },
-          {
-            "name": "elpringlense",
-            "uri": "https://videostream.shockmedia.com.ar:19360/elpringlense/elpringlense.m3u8"
-          },
-          {
-            "name": "Multivision Cable",
-            "uri": "https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8"
-          },
-          {
-            "name": "Chilecito TV (480p)",
-            "uri": "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8"
-          },
-          {
-            "name": "SPTV SAN PEDRO",
-            "uri": "https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8"
-          },
-          {
-            "name": "GEN TV",
-            "uri": "https://inliveserver.com:1936/14056/14056/playlist.m3u8"
-          },
-          {
-            "name": "STREAM MAX JUJUY",
-            "uri": "https://srv6.zcast.com.br/streamax/streamax/playlist.m3u8",
-            "icono": "https://static.tvar.io/imagenes/streammax.png"
-          },
-          {
-            "name": "CHAMAME TV CORRIENTES",
-            "uri": "https://srv2.zcast.com.br/chamame/chamame/playlist.m3u8"
-          },
-          {
-            "name": "CANAL NUEVE TELEVIDA",
-            "uri": "https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream2/chunks.m3u8"
-          },
-          {
-            "name": "Canal 2 Jujuy",
-            "uri": "https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8",
-            "icono": "https://i.ibb.co/XLJ5cc3/descarga-1.png"
-          },
-          {
-            "name": "El Siete TV ",
-            "uri": "https://m.mtd.llc/iptv-query.m3u8?url=http://www.youtube.com/c/CanalSieteMendoza1/live"
-          },
-          {
-            "name": "CANAL 7 JUJUY",
-            "uri": "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8"
-          },
-          {
-            "name": "CANAL 11 MACHAGAY CHACO",
-            "uri": "https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8"
-          },
-          {
-            "name": "Canal 13 La Rioja",
-            "uri": "http://arcast.net:1935/mp/mp/playlist.m3u8"
-          },
-          {
-            "name": "Canal 9 Santa Cruz",
-            "uri": "https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8"
-          },
-          {
-            "name": "MULTIPLATAFORMA FENIX LA RIOJA",
-            "uri": "http://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8",
-            "icono": "https://static.tvar.io/imagenes/fenixtv.jpeg"
-          },
-          {
-            "name": "Canal 9 la Rioja",
-            "uri": "https://inliveserver.com:1936/17012/17012/playlist.m3u8"
-          },
-          {
-            "name": "CANAL 6 POSADAS",
-            "uri": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8"
-          },
-          {
-            "name": "SILVER CHANNEL",
-            "uri": "https://panel.dattalive.com/8158/8158/chunklist_w747032926.m3u8"
-          },
-          {
-            "name": "Telesol San Juan",
-            "uri": "https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@Telesolsj/live"
-          },
-          {
-            "name": "ARGENTINISIMA SATELITAL",
-            "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd"
-          },
-          {
-            "name": "BRAGADO TV",
-            "uri": "http://54.39.21.129/hls/222_.m3u8",
-            "icono": "https://www.bragadotv.com.ar/images/custom/logo-social.jpg"
-          },
-          {
-            "name": "CANAL 12 CORDOBA",
-            "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd"
-          },
-          {
-            "name": "Canal 8 San Juan",
-            "uri": "https://m.mtd.llc/iptv-query.m3u8?url=http://www.youtube.com/@canal8sanjuan904/live"
-          },
-          {
-            "name": "Canal 4 San Juan",
-            "uri": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8"
-          },
-          {
-            "name": "CANAL 4 JUJUY",
-            "uri": "https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8"
-          },
-          {
-            "name": "RTV Neuquen",
-            "uri": "http://media.neuquen.gov.ar/rtn/television/playlist.m3u8"
-          },
-          {
-            "name": " Canal 22 Buenos Aires",
-            "uri": "https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL",
-            "icono": "https://static.wikia.nocookie.net/tvficticia/images/9/94/Canal22.png/revision/latest?cb=20230606194222&path-prefix=es"
-          },
-          {
-            "name": "Canal 30 San juan",
-            "uri": "https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@canal30sanjuantv/live"
-          },
-          {
-            "name": "AMERICA TUCUMAN",
-            "uri": "https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@AmericaTucuman/live"
-          },
-          {
-            "name": "EL 8 TUCUMAN",
-            "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd"
-          },
-          {
-            "name": "Canal 34 San juan",
-            "uri": "http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8"
-          },
-          {
-            "name": "Albardon TV",
-            "uri": "https://vd01.streaminghd.net.ar:3451/stream/play.m3u8"
-          },
-          {
-            "name": "TELEFE CORDOBA",
-            "uri": "http://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_2A/Canal_8_CBA.mpd"
-          },
-          {
-            "name": "CANAL 12 CORDOBA",
-            "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd"
-          },
-          {
-            "name": "CANAL 10 CORDOBA",
-            "uri": "https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8"
-          },
-          {
-            "name": "Chaco TV (720p)",
-            "uri": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
-          },
-          {
-            "name": "CANAL 13 RIO CUARTO",
-            "uri": "http://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8"
-          },
-          {
-            "name": "Canal 13, San Luis",
-            "uri": "https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1204601192_b301200.m3u8"
-          },
-          {
-            "name": "TELEFE SANTA FE",
-            "uri": "http://edge-live13-sl.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc_2A/Canal_13_SFE.mpd"
-          },
-          {
-            "name": "CANAL 10 TUCUMAN",
-            "uri": "http://edge-live15-sl.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc_2A/Ch10_Tucuman.mpd"
-          },
-          {
-            "name": "Canal 9 Litoral",
-            "uri": "http://edge-live13-sl.cvattv.com.ar/live/c6eds/Canal_9_Parana/SA_Live_dash_enc_2A/Canal_9_Parana.mpd"
-          },
-          {
-            "name": "TELEFE ROSARIO",
-            "uri": "http://edge-live13-sl.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc_2A/Canal_5_Rosario.mpd"
-          },
-          {
-            "name": "CANAL 3 ROSARIO",
-            "uri": "http://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_2A/Canal_3_Rosario.mpd"
-          },
-          {
-            "name": "TELEFE NEUQUEN",
-            "uri": "http://edge-live17-hr.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc_2A/Telefe_Neuquen.mpd"
-          },
-          {
-            "name": "13 Max Televisión",
-            "uri": "http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w247540946.m3u8"
-          },
-          {
-            "name": "TELEFE BAHIA BLANCA",
-            "uri": "http://edge-live11-hr.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc_2A/Canal9_Bahia_Blanca.mpd"
-          },
-          {
-            "name": "Canal Siete Bahía Blanca",
-            "uri": "http://edge-live12-sl.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc_2A/Canal7_Bahia_Blanca.mpd"
-          }
-        ]
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/BANG%20BROS%203.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_5a2ca8e2cd5b6bf1a494a6b0065f21fb.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_7be03e0737e48b3f6f6d9622314ecdd8.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_30a14562542f1db07f0e66cd9564c050.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_31a836d3b2b192fd069f3ca2c6c2127d.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_60e74a4fd113372dbab3440d73cf8f04.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_62e584df33533496ead236a5f05a8763.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_73f7866755a11044f7dd64f952cf166c.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_77bb49e764ec56ba9988137f99450c99.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_73f7866755a11044f7dd64f952cf166c.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_853cbbd4770ac901a470aab4345fccf4.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_1193e3f448d61f744d075b794b377253.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_3884dd853c8069ead536434ee14f487b.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_850460f9fafbca6c291bfe4c03efb28c.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_bd0fa23d2951657f70dc596dff82b4da.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_bf9f1844df8e93ca6658af4a1ea17930.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_d6fd369f0f5339542e4b0d2e4a466fad.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_d57345cbfd57c9dace164c86ef7b8ff4.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_dbd23206afa3575e4f6817e428bd89d1.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_e99aee689a2e9b7b9e4af5b292304e70.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_e457520ae82126d85b3051736b558615.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_dbd23206afa3575e4f6817e428bd89d1.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_f2cdfe3fa906e156ad15254537cfa271.mp4"
+      },
+      {
+        "name": "VOD-XXX",
+        "uri": "https://tvinnov.online/XXX/BANGBROS/orig_f68c702dfc7637b8f23bbf20c5de317a.mp4"
+      }
+    ]
+  },
+  {
+    "name": "INTERIOR DE ARGENTINA",
+    "samples": [
+      {
+        "name": "CANAL 12 MISIONES",
+        "uri": "http://edge-live17-hr.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_Live_dash_enc_2A/CH_12_Posadas.mpd"
+      },
+      {
+        "name": "elpringlense",
+        "uri": "https://videostream.shockmedia.com.ar:19360/elpringlense/elpringlense.m3u8"
+      },
+      {
+        "name": "Multivision Cable",
+        "uri": "https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8"
+      },
+      {
+        "name": "Chilecito TV (480p)",
+        "uri": "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8"
+      },
+      {
+        "name": "SPTV SAN PEDRO",
+        "uri": "https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8"
+      },
+      {
+        "name": "GEN TV",
+        "uri": "https://inliveserver.com:1936/14056/14056/playlist.m3u8"
+      },
+      {
+        "name": "STREAM MAX JUJUY",
+        "uri": "https://srv6.zcast.com.br/streamax/streamax/playlist.m3u8",
+        "icono": "https://static.tvar.io/imagenes/streammax.png"
+      },
+      {
+        "name": "CHAMAME TV CORRIENTES",
+        "uri": "https://srv2.zcast.com.br/chamame/chamame/playlist.m3u8"
+      },
+      {
+        "name": "CANAL NUEVE TELEVIDA",
+        "uri": "https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream2/chunks.m3u8"
+      },
+      {
+        "name": "Canal 2 Jujuy",
+        "uri": "https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8",
+        "icono": "https://i.ibb.co/XLJ5cc3/descarga-1.png"
+      },
+      {
+        "name": "El Siete TV ",
+        "uri": "https://m.mtd.llc/iptv-query.m3u8?url=http://www.youtube.com/c/CanalSieteMendoza1/live"
+      },
+      {
+        "name": "CANAL 7 JUJUY",
+        "uri": "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8"
+      },
+      {
+        "name": "CANAL 11 MACHAGAY CHACO",
+        "uri": "https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8"
+      },
+      {
+        "name": "Canal 13 La Rioja",
+        "uri": "http://arcast.net:1935/mp/mp/playlist.m3u8"
+      },
+      {
+        "name": "Canal 9 Santa Cruz",
+        "uri": "https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8"
+      },
+      {
+        "name": "MULTIPLATAFORMA FENIX LA RIOJA",
+        "uri": "http://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8",
+        "icono": "https://static.tvar.io/imagenes/fenixtv.jpeg"
+      },
+      {
+        "name": "Canal 9 la Rioja",
+        "uri": "https://inliveserver.com:1936/17012/17012/playlist.m3u8"
+      },
+      {
+        "name": "CANAL 6 POSADAS",
+        "uri": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8"
+      },
+      {
+        "name": "SILVER CHANNEL",
+        "uri": "https://panel.dattalive.com/8158/8158/chunklist_w747032926.m3u8"
+      },
+      {
+        "name": "Telesol San Juan",
+        "uri": "https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@Telesolsj/live"
+      },
+      {
+        "name": "ARGENTINISIMA SATELITAL",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd"
+      },
+      {
+        "name": "BRAGADO TV",
+        "uri": "http://54.39.21.129/hls/222_.m3u8",
+        "icono": "https://www.bragadotv.com.ar/images/custom/logo-social.jpg"
+      },
+      {
+        "name": "CANAL 12 CORDOBA",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd"
+      },
+      {
+        "name": "Canal 8 San Juan",
+        "uri": "https://m.mtd.llc/iptv-query.m3u8?url=http://www.youtube.com/@canal8sanjuan904/live"
+      },
+      {
+        "name": "Canal 4 San Juan",
+        "uri": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8"
+      },
+      {
+        "name": "CANAL 4 JUJUY",
+        "uri": "https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8"
+      },
+      {
+        "name": "RTV Neuquen",
+        "uri": "http://media.neuquen.gov.ar/rtn/television/playlist.m3u8"
+      },
+      {
+        "name": " Canal 22 Buenos Aires",
+        "uri": "https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL",
+        "icono": "https://static.wikia.nocookie.net/tvficticia/images/9/94/Canal22.png/revision/latest?cb=20230606194222&path-prefix=es"
+      },
+      {
+        "name": "Canal 30 San juan",
+        "uri": "https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@canal30sanjuantv/live"
+      },
+      {
+        "name": "AMERICA TUCUMAN",
+        "uri": "https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@AmericaTucuman/live"
+      },
+      {
+        "name": "EL 8 TUCUMAN",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd"
+      },
+      {
+        "name": "Canal 34 San juan",
+        "uri": "http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8"
+      },
+      {
+        "name": "Albardon TV",
+        "uri": "https://vd01.streaminghd.net.ar:3451/stream/play.m3u8"
+      },
+      {
+        "name": "TELEFE CORDOBA",
+        "uri": "http://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_2A/Canal_8_CBA.mpd"
+      },
+      {
+        "name": "CANAL 12 CORDOBA",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd"
+      },
+      {
+        "name": "CANAL 10 CORDOBA",
+        "uri": "https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8"
+      },
+      {
+        "name": "Chaco TV (720p)",
+        "uri": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
+      },
+      {
+        "name": "CANAL 13 RIO CUARTO",
+        "uri": "http://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8"
+      },
+      {
+        "name": "Canal 13, San Luis",
+        "uri": "https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1204601192_b301200.m3u8"
+      },
+      {
+        "name": "TELEFE SANTA FE",
+        "uri": "http://edge-live13-sl.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc_2A/Canal_13_SFE.mpd"
+      },
+      {
+        "name": "CANAL 10 TUCUMAN",
+        "uri": "http://edge-live15-sl.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc_2A/Ch10_Tucuman.mpd"
+      },
+      {
+        "name": "Canal 9 Litoral",
+        "uri": "http://edge-live13-sl.cvattv.com.ar/live/c6eds/Canal_9_Parana/SA_Live_dash_enc_2A/Canal_9_Parana.mpd"
+      },
+      {
+        "name": "TELEFE ROSARIO",
+        "uri": "http://edge-live13-sl.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc_2A/Canal_5_Rosario.mpd"
+      },
+      {
+        "name": "CANAL 3 ROSARIO",
+        "uri": "http://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_2A/Canal_3_Rosario.mpd"
+      },
+      {
+        "name": "TELEFE NEUQUEN",
+        "uri": "http://edge-live17-hr.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc_2A/Telefe_Neuquen.mpd"
+      },
+      {
+        "name": "13 Max Televisión",
+        "uri": "http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w247540946.m3u8"
+      },
+      {
+        "name": "TELEFE BAHIA BLANCA",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc_2A/Canal9_Bahia_Blanca.mpd"
+      },
+      {
+        "name": "Canal Siete Bahía Blanca",
+        "uri": "http://edge-live12-sl.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc_2A/Canal7_Bahia_Blanca.mpd"
       }
     ]
   }
+  
 ]
