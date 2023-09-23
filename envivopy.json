@@ -1043,63 +1043,52 @@
       },
       {
         "name": "VORTERIX",
-        "icon": "https://static.flow.com.ar/images/7018/CH_LOGO/350/500/0/0/25297928074330.png",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "http://167.114.129.223/web/vorterix.json"
       },
       {
         "name": "CM",
-        "icon": "https://static.flow.com.ar/images/674/CH_LOGO/350/500/0/0/3383758507230.png",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd",
         "drm_scheme": "clearkey",
         "drm_license_url": "http://51.161.34.23/k/results.php?keyid=682f36b5736f4560951ca14b80d29524&key=3accb729067a39b3b8143f1b447b9d25"
       },
       {
         "name": "ALLEGRO HD",
-        "icon": "https://static.flow.com.ar/images/7277/CH_LOGO/350/500/0/0/75476816073439.png",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_2A/AllegroHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_url": "http://51.161.34.23/k/results.php?keyid=c089a275016e1bd525d698bca0995445&key=fcf6e10f9c01396005d2731e8db6cab9"
       },
       {
         "name": "NUEVOS CLASICOS",
-        "icon": "",
         "uri": "https://musicsrc.cvattv.com.ar/RM03"
       },
       {
         "name": "ELECTRONICA",
-        "icon": "",
         "uri": "https://musicsrc.cvattv.com.ar/RM41"
       },
       {
         "name": "GRANDES DEL ROCK",
-        "icon": "",
         "uri": "https://musicsrc.cvattv.com.ar/RM18"
       },
       {
         "name": "REGGAETON ROMANTICO",
-        "icon": "",
         "uri": "https://musicsrc.cvattv.com.ar/RM30"
       },
       {
         "name": "MUSICA LATINA",
-        "icon": "",
         "uri": "https://musicsrc.cvattv.com.ar/RM31"
       },
       {
         "name": "REGGAETON",
-        "icon": "",
         "uri": "https://musicsrc.cvattv.com.ar/RM29"
       },
       {
         "name": "ROCK NACIONAL",
-        "icon": "",
         "uri": "https://musicsrc.cvattv.com.ar/RM17"
       },
       {
         "name": "TOP 40 MEJORES",
-        "icon": "",
         "uri": "https://musicsrc.cvattv.com.ar/RM01"
       }
     ]
@@ -1126,17 +1115,14 @@
         "drm_license_url": "http://51.161.34.23/k/results.php?keyid=95bd64227acf458daf7886f803d0298e&key=79e28ee0ec58958bb666f9e53a0cd434"
       },
       {
-        "icon": "",
         "name": "SEXYHOT",
         "uri": "https://br.embedflix.net/p2p/sexyhot/playlist.m3u8"
       },
       {
-        "icon": "",
         "name": "MIAMI TV (Jenny Live)",
         "uri": "https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8"
       },
       {
-        "icon": "",
         "name": "MIAMI TV (For you)",
         "uri": "https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8"
       }
@@ -1645,7 +1631,7 @@
         "name": "El impacto de Van Damme (2023)",
         "uri": "https://pc-27.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/3e78494973fb52fd41770cbe6f23a959/EP.0.1.v0.1691561829.m3u8"
       },
-      
+      {
         "name": "Insidious: La puerta roja (2023)",
         "uri": "https://pc-16.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8257db0707d255537d202943ab7497a2/EP.0.0.v1.1691028309.m3u8"
       },
@@ -1654,12 +1640,10 @@
         "uri": "https://pc-26.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5531fba9e1ed938b0ea5ba19c5e052d5/EP.0.1.v1.1691258140.m3u8"
       },
       {
-    
         "name": "My House (2023)",
         "uri": "https://pc-25.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/aa6871097cbcaa475088770f1835b26c/EP.0.0.v1.1691209515.m3u8"
       },
       {
-
         "name": "Doble discurso (2023)",
         "uri": "https://pc-11.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/df54bd60a558b8ecd39f9cd07a3bccf5/EP.0.2.v0.1691208557.m3u8"
       },
@@ -1700,7 +1684,6 @@
         "uri": "https://pc-17.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8d2f814fa15987abf33b64c1bdaeca98/EP.0.2.v0.1690524900.m3u8"
       },
       {
-
         "name": "La fiebre de los peluches Beanie (2023)",
         "uri": "https://pc-16.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8c93506f421a0594cf108036a51fcc59/EP.0.2.v0.1690631630.m3u8"
       },
