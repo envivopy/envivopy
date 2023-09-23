@@ -145,7 +145,7 @@
       },
       {
         "name": "STREAM MAX JUJUY",
-        "uri": "https://srv6.zcast.com.br/streamax/streamax/playlist.m3u8",
+        "uri": "https://srv6.zcast.com.br/streamax/streamax/playlist.m3u8"
         "icono": "https://static.tvar.io/imagenes/streammax.png"
       },
       {
@@ -183,7 +183,7 @@
       },
       {
         "name": "MULTIPLATAFORMA FENIX LA RIOJA",
-        "uri": "http://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8",
+        "uri": "http://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8"
         "icono": "https://static.tvar.io/imagenes/fenixtv.jpeg"
       },
       {
