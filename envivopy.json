@@ -1012,35 +1012,30 @@
     "name": "MUSICA",
     "samples": [
       {
-        "icon": "https://static.flow.com.ar/images/715/CH_LOGO/350/500/0/0/80393273073281.png",
         "name": "QUIERO TV",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_url": "http://51.161.34.23/k/results.php?keyid=a354b0c82a3a720c4a6f52ed5a1190f4&key=45a76dcc84f058cfabc8b958d7303b28"
       },
       {
-        "icon": "https://static.flow.com.ar/images/699/CH_LOGO/350/500/0/0/1116039107115.png",
         "name": "HTV",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_url": "http://51.161.34.23/k/results.php?keyid=daecef5fe32f4ce083c6a0c692755d6a&key=d4227f24389a9ba77293214b93eb0d7d"
       },
       {
-        "icon": "https://static.flow.com.ar/images/707/CH_LOGO/350/500/0/0/14664562073858.png",
         "name": "MTV",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_url": "http://51.161.34.23/k/results.php?keyid=0c9eb3ead38a122ac460ad96a8ebfd2e&key=66bfbfa4449eb8bc1bcf7577d5bffaad"
       },
       {
-        "icon": "https://static.flow.com.ar/images/1022/CH_LOGO/350/500/0/0/3867624707727.png",
         "name": "MTV HITS",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd",
         "drm_scheme": "clearkey",
         "drm_license_url": "http://51.161.34.23/k/results.php?keyid=61008dfc867544cd872de99b1f2b82cf&key=716449756316b91c54803aaa22a2fbf0"
       },
       {
-        "icon": "https://static.flow.com.ar/images/708/CH_LOGO/350/500/0/0/987873140728.png",
         "name": "MUCH MUSIC",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc/Much_Music.mpd",
         "drm_scheme": "clearkey",
@@ -1113,21 +1108,18 @@
     "name": "ADULTOS",
     "samples": [
       {
-        "icon": "https://static.flow.com.ar/images/861/CH_LOGO/350/500/0/0/1187688407114.png",
         "name": "PLAY BOY",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Playboy//SA_Live_dash_enc/Playboy.mpd",
         "drm_scheme": "clearkey",
         "drm_license_url": "http://51.161.34.23/k/results.php?keyid=8577d81eaf33436d9f1e482360685a7c&key=f608a0ac703cfaaf9442574d9a2b87fb"
       },
       {
-        "icon": "https://static.flow.com.ar/images/862/CH_LOGO/350/500/0/0/966764300744.png",
         "name": "VENUS",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd",
         "drm_scheme": "clearkey",
         "drm_license_url": "http://51.161.34.23/k/results.php?keyid=34237d2ae6684ee7a011f5b9c7c43e6d&key=05d973d987915120e567880f50a422af"
       },
       {
-        "icon": "https://telecentro.com.ar/img/cm/channels/Sextreme%20128.png",
         "name": "SEX EXTREME",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd",
         "drm_scheme": "clearkey",
@@ -1590,172 +1582,141 @@
     "name": "PELICULAS",
     "samples": [
       {
-        "icon": "https://pics.filmaffinity.com/indiana_jones_and_the_dial_of_destiny-145866922-mmed.jpg",
         "name": "Indiana Jones y el dial del destino (2023)",
         "uri": "https://pc-09.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/205d2f78f1f00e50fec6e22a455ab672/EP.0.2.v1.1689263605.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/barbie-295661697-mmed.jpg",
         "name": "Barbie - CAM - (2023)",
         "uri": "https://pc-24.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a0d0c19e4b961dcec4eb18b67cb766cc/EP.0.2.v2.1691864601.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/mission_impossible_dead_reckoning_part_one-902615661-mmed.jpg",
         "name": "Misión imposible: Sentencia mortal - Parte 1 - CAM - (2023)",
         "uri": "https://pc-27.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/65e3e2a6229dd302b0c85d297998f886/EP.0.0.v1.1691903765.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/the_super_mario_bros_movie-521125124-mmed.jpg",
         "name": "Super Mario Bros: La película (2023)",
         "uri": "https://pc-14.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/b9f3f5e072aa9be99699e94bdf0924d6/EP.0.2.v2.1691856836.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/transformers_rise_of_the_beasts-717876501-mmed.jpg",
         "name": "Transformers: El despertar de las bestias (2023)",
         "uri": "https://pc-09.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/0c9be8fe9ff384b24f2f38ca01e5dee6/EP.0.2.v2.1691899881.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/guardians_of_the_galaxy_vol_3-466272381-mmed.jpg",
         "name": "Guardianes de la galaxia Vol. 3 (2023)",
         "uri": "https://pc-10.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ffb4eb5d68c081c51f64173d1c355fac/EP.0.2.v4.1691857916.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/fast_x-854185380-mmed.jpg",
         "name": "Fast & Furious X (2023)",
         "uri": "https://pc-14.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9ddec690edc5c849f099297e3801b473/EP.0.2.v3.1691820122.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/no_hard_feelings-625556131-mmed.jpg",
         "name": "Sin malos rollos (2023)",
         "uri": "https://pc-17.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/17f58263e1812bd373e1deeea7a8f5bb/EP.0.0.v1.1691772366.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/lego_disney_princess_the_castle_quest-964095837-mmed.jpg",
         "name": "LEGO Disney Princess: Misión Castillo (2023)",
         "uri": "https://pc-13.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/169f373b3a010565ba4b1ad1d6cdd604/EP.0.2.v1.1692437861.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/the_monkey_king-232332190-mmed.jpg",
         "name": "El Rey Mono (2023)",
         "uri": "https://pc-15.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/1c73ea851515ee2f6b2fd3c267b24fe2/EP.0.2.v2.1692440189.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/moving_on-443777416-mmed.jpg",
         "name": "Moving On (2023)",
         "uri": "https://pc-15.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/3767cd9ba7a1277768c431e7c5339d2c/EP.0.0.v0.1691756626.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/the_resurrection_of_charles_manson-569782295-mmed.jpg",
         "name": "El regreso de Manson (2023)",
         "uri": "https://pc-14.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/d74535a0140b9501791569276bc12e6c/EP.0.0.v0.1691943369.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/the_donor_party-703387806-mmed.jpg",
         "name": "The Donor Party (2023)",
         "uri": "https://pc-15.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/33a5af2b5840b93467caeb5215891116/EP.0.0.v0.1691944004.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/heart_of_stone-282567254-mmed.jpg",
         "name": "Agente Stone (2023)",
         "uri": "https://pc-22.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c369ee462e750fe42c54f4d391c9573b/EP.0.2.v0.1691854732.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/the_flash-205686824-mmed.jpg",
         "name": "The Flash (2023)",
         "uri": "https://pc-22.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4cf16a17bdab9f6b5ac3043ec5498c41/EP.0.0.v0.1691563480.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/jean_claude_van_damme_coup_sur_coup-244578785-mmed.jpg",
         "name": "El impacto de Van Damme (2023)",
         "uri": "https://pc-27.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/3e78494973fb52fd41770cbe6f23a959/EP.0.1.v0.1691561829.m3u8"
       },
-      {
-        "icon": "https://pics.filmaffinity.com/insidious_the_red_door-533249268-mmed.jpg",
+      
         "name": "Insidious: La puerta roja (2023)",
         "uri": "https://pc-16.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8257db0707d255537d202943ab7497a2/EP.0.0.v1.1691028309.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/the_minute_you_wake_up_dead-979309038-mmed.jpg",
         "name": "La sombra del crimen (2022)",
         "uri": "https://pc-26.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5531fba9e1ed938b0ea5ba19c5e052d5/EP.0.1.v1.1691258140.m3u8"
       },
       {
-        "icon": "https://m.media-amazon.com/images/M/MV5BYjMxMDYxOWItNzg4OS00Y2IxLTk3MzUtZjY2YzBmYTcxYzFmXkEyXkFqcGdeQXVyNTkwNzk1NDY@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+    
         "name": "My House (2023)",
         "uri": "https://pc-25.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/aa6871097cbcaa475088770f1835b26c/EP.0.0.v1.1691209515.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/doble_discurso-889417383-mmed.jpg",
+
         "name": "Doble discurso (2023)",
         "uri": "https://pc-11.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/df54bd60a558b8ecd39f9cd07a3bccf5/EP.0.2.v0.1691208557.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/divina_senal-100962628-mmed.jpg",
         "name": "Divina señal (2023)",
         "uri": "https://pc-13.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/80e90b18ddcb015aea4d2cf208a294ef/EP.0.2.v0.1691208766.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/ras_bras-252602591-mmed.jpg",
         "name": "Frente a frente (2023)",
         "uri": "https://pc-24.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9ca79677bb756cb10ba5b510c3f5e0f/EP.0.2.v0.1691150114.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/my_happy_ending-439917927-mmed.jpg",
         "name": "El final que quiero (2023)",
         "uri": "https://pc-18.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/51ff087bb73eaa0a1e66a0e2ed5d32f3/EP.0.2.v0.1691242751.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/sugar_en_aprietos-305763237-mmed.jpg",
         "name": "Sugar en aprietos (2022)",
         "uri": "https://pc-24.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/59b95b944349c13026236259a73ce259/EP.0.2.v0.1691078459.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/de_caperucita_a_loba-105292989-mmed.jpg",
         "name": "De Caperucita a loba (2023)",
         "uri": "https://pc-26.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/760aea3055e693ea43ac3a55a6a515eb/EP.0.1.v0.1690777807.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/keishicho_sosaikka_rushi_burakku_man_jiken-355782195-mmed.jpg",
         "name": "Missing: The Lucie Blackman Case (2023)",
         "uri": "https://pc-08.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8af137b5d36baaf7d89ff2aff67c6adf/EP.0.2.v0.1690708781.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/hidden_strike-740453179-mmed.jpg",
         "name": "Hidden Strike (2023)",
         "uri": "https://pc-18.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6b0907a3bfec34b495bec8c99be8b7a6/EP.0.2.v0.1690633675.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/paradise-726881551-mmed.jpg",
         "name": "Paradise (2023)",
         "uri": "https://pc-14.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/657c29d9e99f83889bfdb50e97fb954f/EP.0.2.v0.1690521475.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/the_murderer-241973970-mmed.jpg",
         "name": "The Murderer (2023)",
         "uri": "https://pc-17.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8d2f814fa15987abf33b64c1bdaeca98/EP.0.2.v0.1690524900.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/the_beanie_bubble-512160291-mmed.jpg",
+
         "name": "La fiebre de los peluches Beanie (2023)",
         "uri": "https://pc-16.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8c93506f421a0594cf108036a51fcc59/EP.0.2.v0.1690631630.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/they_cloned_tyrone-399443305-mmed.jpg",
         "name": "El clon de Tyrone (2023)",
         "uri": "https://pc-27.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/824f252f63799ce5c2a3785672ea8610/EP.0.0.v0.1690092388.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/ruby_gillman_teenage_kraken-919804181-mmed.jpg",
         "name": "Ruby, aventuras de una kraken adolescente (2023)",
         "uri": "https://pc-21.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c110e8693807d1fb90ea79924e6801c8/EP.0.2.v1.1689748440.m3u8"
       },
       {
-        "icon": "https://pics.filmaffinity.com/ruby_gillman_tseenage_kraken-919804181-mmed.jpg",
         "name": "PRUEBA",
         "uri": "https://video.fmdz7-1.fna.fbcdn.net/hvideo-nao-ncg/_nc_cat-107/_nc_sr_t-4/v/rASew6M4nLit_WLoQbgpe0xMwz5a_TmnyffqebyWpSOIYTA/_nc_ohc-VgQMgNAu-aoAX-Ps6_W/live-dash/dash-abr-ibr-audio/728040355987530.mpd?ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AfAfdSJ3THBCyjjonxFVdoBC-0q8k6ZDy8JVqY-mq-fvRg&oe=64CDF29C"
       },
       {
-        "icon": "https://pics.filmaffinity.com/lyle_lyle_crocodile-385154228-mmed.jpg",
         "name": "Lilo, mi amigo el cocodrilo (2022)",
         "uri": "https://pc-29.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4c280ebeb7deb927aa439d12c3158553/EP.0.2.v2.1675995447.m3u8"
       }
