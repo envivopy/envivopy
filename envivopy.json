@@ -4,6 +4,9 @@
     "samples": [
       {
     
+    "name": "ADULTOS",
+    "samples": [
+      {
         "name": "PLAYBOY",
         "uri": "https://edge-live13-sl.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
         "drm_scheme": "clearkey",
@@ -14,47 +17,17 @@
         "uri": "https://edge-vod06-sl.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34237d2ae6684ee7a011f5b9c7c43e6d&key=05d973d987915120e567880f50a422af"
+      },
+      {
   },
   {
-  },
-  {
-        "name": "CRISTIANOS",
+        "name": "VODXXX",
     "samples": [
       {
         
         "name": "Enlace Juvenil",
         "uri": "http://1-1145-11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/chunklist_b2752000_sleng.m3u8"
       },
-      {
-        
-        "name": "Enlace TV",
-        "uri": "http://1-220-11554-1.b.cdn13.com/EnlaceTV/smil:enlace-FullHD.smil/chunklist_b1712000_sleng.m3u8"
-      },
-      {
-        
-        "name": "Dios TE VE",
-        "uri": "https://emisoras.hn:8081/diostevetv/index.m3u8"
-      },
-      {
-        
-        "name": "Mision Vida",
-        "uri": "https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/playlist.m3u8"
-      },
-      {
-        
-        "name": "Foro de Santidad TV",
-        "uri": "https://5dbcd1053301e.streamlock.net:4443/farotv/farotv/chunklist_w1991200503.m3u8"
-      },
-      {
-        
-        "name": "Esperanza TV",
-        "uri": "https://videodelivery.net/a23831aa01c4a0fd802360b889ea96ed/manifest/video.m3u8"
-      }
-    ]
-  },
-  {
-        "name": "CVODXXX",
-    "samples": [
       {
         "name": "VOD-XXX",
         "uri": "https://tvinnov.online/XXX/BANGBROS/BANG%20BROS%202.mp4"
@@ -154,6 +127,41 @@
       {
         "name": "VOD-XXX",
         "uri": "https://tvinnov.online/XXX/BANGBROS/orig_f68c702dfc7637b8f23bbf20c5de317a.mp4"
+      }
+    ]
+  },
+  {
+        "name": "XXXX",
+    "samples": [
+      {
+        
+        "name": "Enlace Juvenil",
+        "uri": "http://1-1145-11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/chunklist_b2752000_sleng.m3u8"
+      },
+      {
+        
+        "name": "Enlace TV",
+        "uri": "http://1-220-11554-1.b.cdn13.com/EnlaceTV/smil:enlace-FullHD.smil/chunklist_b1712000_sleng.m3u8"
+      },
+      {
+        
+        "name": "Dios TE VE",
+        "uri": "https://emisoras.hn:8081/diostevetv/index.m3u8"
+      },
+      {
+        
+        "name": "Mision Vida",
+        "uri": "https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/playlist.m3u8"
+      },
+      {
+        
+        "name": "Foro de Santidad TV",
+        "uri": "https://5dbcd1053301e.streamlock.net:4443/farotv/farotv/chunklist_w1991200503.m3u8"
+      },
+      {
+        
+        "name": "Esperanza TV",
+        "uri": "https://videodelivery.net/a23831aa01c4a0fd802360b889ea96ed/manifest/video.m3u8"
       }
     ]
   },
