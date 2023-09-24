@@ -1084,41 +1084,7 @@
       {
         "name": "TOP 40 MEJORES",
         "uri": "https://musicsrc.cvattv.com.ar/RM01"
-      }
-    ]
-  },
-  {
-    "name": "ADULTOS",
-    "samples": [
-      {
-        "name": "PLAY BOY",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Playboy//SA_Live_dash_enc/Playboy.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "http://51.161.34.23/k/results.php?keyid=8577d81eaf33436d9f1e482360685a7c&key=f608a0ac703cfaaf9442574d9a2b87fb"
-      },
-      {
-        "name": "VENUS",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "http://51.161.34.23/k/results.php?keyid=34237d2ae6684ee7a011f5b9c7c43e6d&key=05d973d987915120e567880f50a422af"
-      },
-      {
-        "name": "SEX EXTREME",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "http://51.161.34.23/k/results.php?keyid=95bd64227acf458daf7886f803d0298e&key=79e28ee0ec58958bb666f9e53a0cd434"
-      },
-      {
-        "name": "SEXYHOT",
-        "uri": "https://br.embedflix.net/p2p/sexyhot/playlist.m3u8"
-      },
-      {
-        "name": "MIAMI TV (Jenny Live)",
-        "uri": "https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8"
-      },
-      {
-        "name": "MIAMI TV (For you)",
-        "uri": "https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8"
+
       }
     ]
   },
