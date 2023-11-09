@@ -13,6 +13,18 @@
         "uri": "https://edge-live02-bel.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34237d2ae6684ee7a011f5b9c7c43e6d&key=05d973d987915120e567880f50a422af"
+      },
+      {
+        "name": "SEX ESTREME",
+        "uri": "http://chromecast.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_2A/Sextreme.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/a3c3exvwa0sc2yoqflyjd/KEY.SEX-ESTREME.json?rlkey=dk6bx3nnawc733mfyoz78lsb6&dl=0"
+      },
+      {
+        "name": "PENTHOUSE",
+        "uri": "https://arlocallive2clarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(PENTHOUSE)/master.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/w7ioqbdxkxvoels4bw2br/KEY.PENTHUOSE.json?rlkey=yqf9mvzrcer6ci35w5d78yq9u&dl=0"
       }
     ]
   },
