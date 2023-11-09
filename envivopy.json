@@ -19,10 +19,6 @@
         "uri": "http://chromecast.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_2A/Sextreme.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/q8xjq2oipyvp560y4tkht/KEY.SEX-ESTREME.json?rlkey=idhituj6zkg74lniyccp5u72e&dl=0"
-      },
-      {
-        "name": "PENTHOUSE",
-        "uri": "https://arlocallive2clarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(PENTHOUSE)/master.mpd",
       }
     ]
   },
