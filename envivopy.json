@@ -18,13 +18,11 @@
         "name": "SEX ESTREME",
         "uri": "http://chromecast.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_2A/Sextreme.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/a3c3exvwa0sc2yoqflyjd/KEY.SEX-ESTREME.json?rlkey=dk6bx3nnawc733mfyoz78lsb6&dl=0"
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/q8xjq2oipyvp560y4tkht/KEY.SEX-ESTREME.json?rlkey=idhituj6zkg74lniyccp5u72e&dl=0"
       },
       {
         "name": "PENTHOUSE",
         "uri": "https://arlocallive2clarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(PENTHOUSE)/master.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/w7ioqbdxkxvoels4bw2br/KEY.PENTHUOSE.json?rlkey=yqf9mvzrcer6ci35w5d78yq9u&dl=0"
       }
     ]
   },
