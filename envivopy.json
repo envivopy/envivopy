@@ -21,6 +21,12 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/536lpgcn0lirov650zikg/KEY.SEX-ESTREME.json?rlkey=fpqsy9xjy4bli2ovizrckovpj&dl=0"
       },
       {
+        "name": "prueba",
+        "uri": "https://arlocallive2clarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(PENTHOUSE)/master.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://api.argentinatv.live/kbx/penthouse.json"
+      },
+      {
         "name": "Anal",
         "uri": "http://cdn.adultiptv.net/anal.m3u8"
       },
